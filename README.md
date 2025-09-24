@@ -18,5 +18,5 @@ Data cleaning project for an orders dataset using NumPy, Pandas, and Matplotlib 
 - Clean dataset with no missing values or duplicates.
 - Clear visualizations showing data distribution.
 ### Example Visualizations:
-![Orders Status](images/orders_status.png)
-![Avarage By Cost](image/plot2.png)
+![Orders Status](plot1.png)
+![Average By Cost](plot2.png)
