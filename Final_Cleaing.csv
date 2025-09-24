@@ -1,0 +1,1001 @@
+OrderID,CustomerID,OrderDate,ShippedDate,ShippingCost,ShipCountry,ShipCity,ShippingCompany,DelivaryDate,OrderStatus,IsDomestic
+1000,196.0,2025-02-04,2025-12-27,394.78,Usa,Toronto,Aramex International,326.0,Late,No
+1001,105.0,2025-01-22,2025-03-21,180.09,Unknown,Munich,Ups Worldwide,58.0,Late,No
+1002,108.0,2025-05-06,2025-05-12,170.12,Germany,Toronto,Aramex International,6.0,OnTime,Yes
+1003,175.0,2025-10-05,,284.62,Spain,Toronto,Aramex International,,Unknown,Yes
+1004,183.0,2025-07-21,2025-08-24,386.21,Spain,Hamburg,Ups Worldwide,34.0,Late,Yes
+1005,174.0,2025-06-08,2025-02-24,258.81741685144124,Canada,Hamburg,Fedex Logistics,-104.0,OnTime,Yes
+1006,124.0,2025-06-11,2025-08-26,443.27,Canada,Montreal,Aramex International,76.0,Late,Yes
+1007,179.0,2025-01-20,2025-03-11,477.45,Germany,Montreal,Ups Worldwide,50.0,Late,Yes
+1008,139.0,2025-06-03,2025-06-16,422.83,Not_A_Country,Vancouver,Dhl Express,13.0,Late,No
+1009,159.0,2025-05-09,2025-10-16,375.4,Unknown,Paris,Fedex Logistics,160.0,Late,No
+1010,166.0,2025-01-20,2025-08-16,347.17,Germany,Paris,Kiwilytics Goods Shipping Llc.,208.0,Late,Yes
+1011,169.0,2025-12-14,2025-03-12,460.04,Canada,Paris,Dhl Express,-277.0,OnTime,Yes
+1012,198.0,2025-06-17,2025-10-26,169.88,France,Toronto,Fedex Logistics,131.0,Late,No
+1013,198.0,,2025-06-18,33.38,Not_A_Country,Montreal,Dhl Express,,Unknown,No
+1014,177.0,2025-03-10,2025-10-23,258.81741685144124,Canada,Montreal,Aramex International,227.0,Late,Yes
+1015,146.0,2025-06-27,,337.81,Canada,Vancouver,Aramex International,,Unknown,Yes
+1016,161.0,2025-04-04,,92.04,Spain,Hamburg,Ups Worldwide,,Unknown,Yes
+1017,133.0,2025-05-18,2025-06-20,64.57,France,Munich,Dhl Express,33.0,Late,No
+1018,146.0,2025-12-23,2025-12-10,193.57,France,Toronto,Ups Worldwide,-13.0,OnTime,No
+1019,176.0,2025-06-04,2025-11-01,258.81741685144124,Not_A_Country,Munich,Ups Worldwide,150.0,Late,No
+1020,155.0,2025-03-19,2025-01-18,329.37,Canada,Hamburg,Dhl Express,-60.0,OnTime,Yes
+1021,173.0,2025-02-27,2025-03-15,310.56,Usa,Paris,Kiwilytics Goods Shipping Llc.,16.0,Late,No
+1022,128.0,2025-03-18,2025-05-17,64.98,Spain,Hamburg,Dhl Express,60.0,Late,Yes
+1023,176.0,2025-01-22,2025-02-03,372.9,France,Paris,Kiwilytics Goods Shipping Llc.,12.0,Late,No
+1024,130.0,2025-07-10,2025-04-24,54.64,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-77.0,OnTime,Yes
+1025,106.0,2025-01-04,2025-03-07,79.41,Canada,Toronto,Ups Worldwide,62.0,Late,Yes
+1026,106.0,2025-06-18,2025-06-15,409.6,Usa,Montreal,Aramex International,-3.0,OnTime,No
+1027,184.0,2025-01-04,2025-10-20,83.85,Not_A_Country,Hamburg,Kiwilytics Goods Shipping Llc.,289.0,Late,No
+1028,171.0,2025-11-03,2025-01-25,308.67,Not_A_Country,Montreal,Dhl Express,-282.0,OnTime,No
+1029,132.0,2025-07-05,2025-05-16,164.58,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-50.0,OnTime,Yes
+1030,150.0,2025-06-12,2025-03-20,489.94,Not_A_Country,Munich,Fedex Logistics,-84.0,OnTime,No
+1031,122.0,2025-07-22,2025-03-01,258.91,Germany,Vancouver,Ups Worldwide,-143.0,OnTime,Yes
+1032,166.0,2025-03-13,2025-06-14,170.14,Canada,Vancouver,Aramex International,93.0,Late,Yes
+1033,157.0,,2025-01-02,258.81741685144124,France,Montreal,Dhl Express,,Unknown,No
+1034,113.0,,2025-08-17,353.88,Usa,Toronto,Fedex Logistics,,Unknown,No
+1035,184.0,2025-01-16,2025-12-09,276.07,Not_A_Country,Vancouver,Aramex International,327.0,Late,No
+1036,190.0,2025-06-08,2025-03-09,326.41,Spain,Vancouver,Aramex International,-91.0,OnTime,Yes
+1037,129.0,2025-07-10,2025-08-15,123.98,Spain,Munich,Dhl Express,36.0,Late,Yes
+1038,120.0,2025-12-01,2025-04-26,388.92,Germany,Hamburg,Aramex International,-219.0,OnTime,Yes
+1039,178.0,2025-07-01,,193.41,Canada,Hamburg,Fedex Logistics,,Unknown,Yes
+1040,178.0,2025-09-14,2025-01-12,391.1,Germany,Montreal,Fedex Logistics,-245.0,OnTime,Yes
+1041,149.0,2025-12-03,2025-12-02,18.73,France,Munich,Ups Worldwide,-1.0,OnTime,No
+1042,184.0,2025-06-18,2025-02-27,333.32,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-111.0,OnTime,Yes
+1043,162.0,2025-07-15,2025-07-04,84.14,France,Munich,Ups Worldwide,-11.0,OnTime,No
+1044,114.0,2025-07-22,2025-11-05,258.81741685144124,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,106.0,Late,No
+1045,168.0,2025-04-17,2025-12-25,468.4,Canada,Munich,Dhl Express,252.0,Late,Yes
+1046,168.0,2025-02-23,2025-07-06,92.03,Canada,Montreal,Kiwilytics Goods Shipping Llc.,133.0,Late,Yes
+1047,157.0,2025-05-20,2025-11-19,467.11,Not_A_Country,Toronto,Kiwilytics Goods Shipping Llc.,183.0,Late,No
+1048,101.0,2025-12-17,2025-04-11,136.51,Spain,Toronto,Kiwilytics Goods Shipping Llc.,-250.0,OnTime,Yes
+1049,116.0,2025-06-17,2025-07-02,391.14,France,Munich,Dhl Express,15.0,Late,No
+1050,183.0,2025-03-07,2025-09-06,354.31,France,Toronto,Fedex Logistics,183.0,Late,No
+1051,189.0,,2025-03-19,213.96,Not_A_Country,Montreal,Aramex International,,Unknown,No
+1052,123.0,2025-03-25,2025-01-21,108.01,Canada,Hamburg,Aramex International,-63.0,OnTime,Yes
+1053,100.0,2025-06-09,2025-06-10,468.55,Usa,Toronto,Aramex International,1.0,OnTime,No
+1054,193.0,2025-05-05,2025-09-20,133.72,Spain,Hamburg,Ups Worldwide,138.0,Late,Yes
+1055,153.0,2025-02-17,2025-06-27,475.86,Spain,Hamburg,Fedex Logistics,130.0,Late,Yes
+1056,138.0,2025-02-11,2025-03-23,362.01,Canada,Munich,Aramex International,40.0,Late,Yes
+1057,114.0,2025-02-09,2025-02-18,251.1,Germany,Paris,Kiwilytics Goods Shipping Llc.,9.0,Late,Yes
+1058,152.0,2025-10-01,2025-07-28,381.01,France,Vancouver,Ups Worldwide,-65.0,OnTime,No
+1059,103.0,2025-08-19,2025-01-20,324.42,Spain,Hamburg,Ups Worldwide,-211.0,OnTime,Yes
+1060,194.0,2025-08-24,2025-05-02,107.78,Usa,Montreal,Kiwilytics Goods Shipping Llc.,-114.0,OnTime,No
+1061,190.0,2025-01-01,2025-03-11,403.86,Canada,Paris,Ups Worldwide,69.0,Late,Yes
+1062,117.0,2025-09-19,2025-11-21,258.81741685144124,Not_A_Country,Paris,Dhl Express,63.0,Late,No
+1063,172.0,2025-04-26,2025-08-07,492.59,Spain,Munich,Dhl Express,103.0,Late,Yes
+1064,140.0,2025-03-28,2025-01-19,138.27,Canada,Hamburg,Dhl Express,-68.0,OnTime,Yes
+1065,106.0,2025-06-14,2025-03-14,231.24,Canada,Toronto,Kiwilytics Goods Shipping Llc.,-92.0,OnTime,Yes
+1066,186.0,2025-03-02,2025-03-27,404.35,Not_A_Country,Montreal,Dhl Express,25.0,Late,No
+1067,115.0,2025-04-05,2025-05-18,431.26,Not_A_Country,Munich,Aramex International,43.0,Late,No
+1068,107.0,2025-05-20,2025-05-06,411.4,Usa,Paris,Kiwilytics Goods Shipping Llc.,-14.0,OnTime,No
+1069,107.0,2025-07-25,2025-04-05,151.21,Spain,Hamburg,Aramex International,-111.0,OnTime,Yes
+1070,124.0,2025-04-11,2025-02-04,301.31,France,Vancouver,Fedex Logistics,-66.0,OnTime,No
+1071,141.0,2025-09-10,2025-06-05,302.93,Not_A_Country,Montreal,Aramex International,-97.0,OnTime,No
+1072,109.0,2025-07-15,2025-05-16,27.54,Unknown,Toronto,Dhl Express,-60.0,OnTime,No
+1073,183.0,2025-05-18,2025-03-23,239.71,Canada,Munich,Ups Worldwide,-56.0,OnTime,Yes
+1074,183.0,2025-11-28,2025-05-17,26.33,Usa,Montreal,Ups Worldwide,-195.0,OnTime,No
+1075,145.0,2025-03-13,2025-04-04,220.69,Unknown,Montreal,Fedex Logistics,22.0,Late,No
+1076,117.0,,2025-03-27,13.48,Spain,Toronto,Aramex International,,Unknown,Yes
+1077,133.0,2025-10-25,2025-06-23,399.36,France,Vancouver,Ups Worldwide,-124.0,OnTime,No
+1078,111.0,2025-12-17,2025-03-12,221.36,Spain,Munich,Fedex Logistics,-280.0,OnTime,Yes
+1079,170.0,2025-10-04,2025-06-08,274.18,Spain,Paris,Fedex Logistics,-118.0,OnTime,Yes
+1080,102.0,2025-06-10,2025-01-23,278.12,Usa,Vancouver,Dhl Express,-138.0,OnTime,No
+1081,155.0,2025-10-01,2025-02-23,108.6,Spain,Hamburg,Fedex Logistics,-220.0,OnTime,Yes
+1082,165.0,2025-05-21,2025-08-02,236.77,Not_A_Country,Toronto,Aramex International,73.0,Late,No
+1083,116.0,,2025-03-20,414.41,Germany,Paris,Dhl Express,,Unknown,Yes
+1084,146.0,2025-11-08,2025-09-04,132.77,Canada,Munich,Ups Worldwide,-65.0,OnTime,Yes
+1085,125.0,2025-12-09,2025-11-28,73.4,Germany,Munich,Kiwilytics Goods Shipping Llc.,-11.0,OnTime,Yes
+1086,128.0,2025-10-17,2025-04-04,333.58,Usa,Toronto,Ups Worldwide,-196.0,OnTime,No
+1087,103.0,2025-09-03,2025-06-17,35.22,Germany,Vancouver,Fedex Logistics,-78.0,OnTime,Yes
+1088,105.0,2025-07-17,2025-07-08,172.65,Germany,Vancouver,Aramex International,-9.0,OnTime,Yes
+1089,153.0,2025-07-01,2025-07-15,482.83,Canada,Toronto,Kiwilytics Goods Shipping Llc.,14.0,Late,Yes
+1090,130.0,2025-11-09,2025-06-14,380.5,Germany,Montreal,Aramex International,-148.0,OnTime,Yes
+1091,130.0,2025-09-14,2025-10-09,263.29,Spain,Toronto,Fedex Logistics,25.0,Late,Yes
+1092,164.0,2025-06-04,2025-10-21,88.08,Spain,Vancouver,Fedex Logistics,139.0,Late,Yes
+1093,113.0,2025-07-26,2025-06-19,392.16,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,-37.0,OnTime,Yes
+1094,109.0,2025-06-02,2025-11-08,243.61,Canada,Toronto,Fedex Logistics,159.0,Late,Yes
+1095,113.0,2025-12-06,2025-05-15,431.51,France,Paris,Fedex Logistics,-205.0,OnTime,No
+1096,163.0,2025-02-17,2025-07-22,404.43,France,Vancouver,Dhl Express,155.0,Late,No
+1097,189.0,2025-12-05,2025-06-25,439.93,Germany,Vancouver,Aramex International,-163.0,OnTime,Yes
+1098,171.0,2025-10-18,2025-01-21,291.06,Canada,Paris,Aramex International,-270.0,OnTime,Yes
+1099,104.0,2025-05-08,2025-07-02,259.25,Usa,Paris,Ups Worldwide,55.0,Late,No
+1100,185.0,2025-01-01,2025-12-16,230.34,Not_A_Country,Montreal,Dhl Express,349.0,Late,No
+1101,147.0,2025-01-27,2025-02-10,269.95,Unknown,Paris,Aramex International,14.0,Late,No
+1102,123.0,2025-11-28,2025-05-13,206.24,Usa,Munich,Dhl Express,-199.0,OnTime,No
+1103,170.0,2025-08-02,2025-04-22,445.52,France,Toronto,Kiwilytics Goods Shipping Llc.,-102.0,OnTime,No
+1104,157.0,2025-08-16,2025-04-03,20.17,France,Toronto,Fedex Logistics,-135.0,OnTime,No
+1105,164.0,2025-07-18,2025-05-15,469.83,Usa,Munich,Aramex International,-64.0,OnTime,No
+1106,116.0,2025-03-04,2025-08-07,437.85,Not_A_Country,Vancouver,Aramex International,156.0,Late,No
+1107,150.0,2025-08-17,,399.12,Spain,Munich,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1108,101.0,2025-10-25,2025-01-12,287.98,France,Montreal,Ups Worldwide,-286.0,OnTime,No
+1109,101.0,2025-06-09,2025-11-05,377.75,Usa,Paris,Ups Worldwide,149.0,Late,No
+1110,112.0,2025-07-26,2025-02-18,302.71,Spain,Munich,Aramex International,-158.0,OnTime,Yes
+1111,128.0,2025-06-21,2025-03-03,145.9,Germany,Montreal,Dhl Express,-110.0,OnTime,Yes
+1112,111.0,2025-10-10,2025-06-26,292.37,Not_A_Country,Vancouver,Ups Worldwide,-106.0,OnTime,No
+1113,193.0,2025-05-28,2025-07-23,218.65,Germany,Paris,Fedex Logistics,56.0,Late,Yes
+1114,141.0,2025-09-23,2025-11-02,200.52,France,Vancouver,Dhl Express,40.0,Late,No
+1115,190.0,2025-11-17,2025-10-11,143.48,Spain,Montreal,Dhl Express,-37.0,OnTime,Yes
+1116,116.0,2025-05-21,2025-07-09,382.97,Germany,Montreal,Aramex International,49.0,Late,Yes
+1117,191.0,2025-06-12,2025-01-04,30.2,Spain,Vancouver,Fedex Logistics,-159.0,OnTime,Yes
+1118,169.0,2025-04-20,2025-06-24,251.79,Canada,Vancouver,Fedex Logistics,65.0,Late,Yes
+1119,129.0,2025-09-15,,324.93,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1120,155.0,,2025-10-15,151.39,Spain,Munich,Fedex Logistics,,Unknown,Yes
+1121,117.0,2025-09-16,2025-04-17,232.98,France,Toronto,Ups Worldwide,-152.0,OnTime,No
+1122,133.0,2025-12-16,2025-11-26,439.05,Not_A_Country,Munich,Aramex International,-20.0,OnTime,No
+1123,140.0,2025-05-10,2025-10-11,376.85,Canada,Hamburg,Fedex Logistics,154.0,Late,Yes
+1124,160.0,2025-08-22,2025-07-04,320.87,Usa,Vancouver,Fedex Logistics,-49.0,OnTime,No
+1125,171.0,2025-03-06,2025-11-20,342.21,Germany,Paris,Fedex Logistics,259.0,Late,Yes
+1126,133.0,2025-05-09,2025-12-26,30.46,Canada,Munich,Kiwilytics Goods Shipping Llc.,231.0,Late,Yes
+1127,157.0,2025-06-07,2025-04-24,189.66,France,Montreal,Aramex International,-44.0,OnTime,No
+1128,136.0,2025-12-12,2025-09-03,74.99,Canada,Montreal,Ups Worldwide,-100.0,OnTime,Yes
+1129,164.0,2025-02-16,2025-01-05,151.16,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,-42.0,OnTime,Yes
+1130,107.0,2025-03-02,2025-11-13,30.16,Not_A_Country,Hamburg,Aramex International,256.0,Late,No
+1131,150.0,2025-02-03,2025-01-19,72.14,Not_A_Country,Toronto,Dhl Express,-15.0,OnTime,No
+1132,157.0,2025-10-13,,289.64,France,Toronto,Fedex Logistics,,Unknown,No
+1133,157.0,2025-06-05,2025-03-07,258.81741685144124,Spain,Montreal,Dhl Express,-90.0,OnTime,Yes
+1134,136.0,2025-03-07,2025-06-14,290.17,Usa,Hamburg,Aramex International,99.0,Late,No
+1135,140.0,2025-01-10,2025-07-15,123.02,Spain,Montreal,Ups Worldwide,186.0,Late,Yes
+1136,129.0,2025-03-15,2025-05-26,199.44,Spain,Toronto,Dhl Express,72.0,Late,Yes
+1137,147.0,2025-09-05,2025-09-08,407.85,Spain,Paris,Aramex International,3.0,OnTime,Yes
+1138,189.0,2025-03-24,2025-04-28,274.98,France,Paris,Ups Worldwide,35.0,Late,No
+1139,114.0,2025-02-25,2025-05-17,360.2,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,81.0,Late,No
+1140,133.0,2025-10-07,2025-05-10,258.81741685144124,Not_A_Country,Vancouver,Dhl Express,-150.0,OnTime,No
+1141,197.0,2025-10-11,2025-12-15,127.55,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,65.0,Late,Yes
+1142,171.0,2025-11-24,2025-03-25,385.68,Germany,Paris,Dhl Express,-244.0,OnTime,Yes
+1143,145.0,2025-07-24,2025-03-13,448.25,France,Hamburg,Fedex Logistics,-133.0,OnTime,No
+1144,189.0,2025-06-11,2025-03-19,258.81741685144124,Usa,Vancouver,Ups Worldwide,-84.0,OnTime,No
+1145,188.0,2025-01-11,2025-05-10,249.11,France,Montreal,Fedex Logistics,119.0,Late,No
+1146,119.0,2025-02-19,,133.2,Canada,Vancouver,Ups Worldwide,,Unknown,Yes
+1147,101.0,2025-05-24,2025-08-13,314.85,Usa,Paris,Dhl Express,81.0,Late,No
+1148,145.0,2025-09-21,2025-03-08,348.77,Canada,Munich,Kiwilytics Goods Shipping Llc.,-197.0,OnTime,Yes
+1149,133.0,2025-11-19,2025-06-19,448.98,Germany,Toronto,Aramex International,-153.0,OnTime,Yes
+1150,190.0,2025-07-24,2025-05-04,436.48,Not_A_Country,Vancouver,Kiwilytics Goods Shipping Llc.,-81.0,OnTime,No
+1151,124.0,2025-10-04,2025-08-16,427.97,Usa,Paris,Kiwilytics Goods Shipping Llc.,-49.0,OnTime,No
+1152,175.0,2025-11-04,2025-01-22,396.46,Canada,Paris,Fedex Logistics,-286.0,OnTime,Yes
+1153,177.0,2025-11-12,2025-09-28,301.72,Spain,Vancouver,Aramex International,-45.0,OnTime,Yes
+1154,102.0,2025-09-09,2025-06-28,453.2,Germany,Toronto,Fedex Logistics,-73.0,OnTime,Yes
+1155,137.0,2025-06-15,2025-05-15,258.81741685144124,Canada,Toronto,Aramex International,-31.0,OnTime,Yes
+1156,167.0,2025-10-12,2025-10-12,440.37,Canada,Hamburg,Ups Worldwide,0.0,OnTime,Yes
+1157,126.0,2025-04-15,2025-10-24,262.86,Canada,Vancouver,Dhl Express,192.0,Late,Yes
+1158,131.0,2025-04-15,2025-05-05,258.81741685144124,Canada,Montreal,Ups Worldwide,20.0,Late,Yes
+1159,123.0,2025-06-10,2025-05-28,269.67,Canada,Montreal,Fedex Logistics,-13.0,OnTime,Yes
+1160,184.0,2025-10-19,2025-09-17,431.17,France,Paris,Aramex International,-32.0,OnTime,No
+1161,134.0,2025-08-20,2025-06-02,258.81741685144124,Canada,Paris,Aramex International,-79.0,OnTime,Yes
+1162,100.0,2025-09-16,2025-03-04,340.32,Spain,Vancouver,Ups Worldwide,-196.0,OnTime,Yes
+1163,180.0,2025-04-16,2025-08-13,395.93,France,Hamburg,Ups Worldwide,119.0,Late,No
+1164,148.0,2025-04-13,2025-06-16,482.9,Germany,Vancouver,Dhl Express,64.0,Late,Yes
+1165,197.0,2025-12-13,2025-09-18,254.06,Usa,Paris,Fedex Logistics,-86.0,OnTime,No
+1166,132.0,2025-03-10,2025-11-07,221.48,Usa,Montreal,Fedex Logistics,242.0,Late,No
+1167,167.0,2025-09-01,2025-05-11,137.64,France,Paris,Ups Worldwide,-113.0,OnTime,No
+1168,164.0,2025-02-19,2025-05-02,62.65,Canada,Toronto,Aramex International,72.0,Late,Yes
+1169,178.0,2025-01-14,2025-09-27,438.77,Not_A_Country,Vancouver,Dhl Express,256.0,Late,No
+1170,178.0,2025-12-11,2025-11-27,459.72,Not_A_Country,Paris,Ups Worldwide,-14.0,OnTime,No
+1171,158.0,2025-02-01,2025-04-24,246.98,Spain,Hamburg,Aramex International,82.0,Late,Yes
+1172,194.0,2025-11-10,2025-09-02,317.1,Usa,Montreal,Fedex Logistics,-69.0,OnTime,No
+1173,199.0,2025-10-08,2025-10-12,125.64,Spain,Vancouver,Ups Worldwide,4.0,OnTime,Yes
+1174,125.0,2025-08-08,2025-11-14,216.57,Germany,Munich,Ups Worldwide,98.0,Late,Yes
+1175,113.0,2025-08-01,2025-01-23,349.92,Germany,Montreal,Ups Worldwide,-190.0,OnTime,Yes
+1176,100.0,2025-07-15,2025-11-01,337.55,Canada,Munich,Dhl Express,109.0,Late,Yes
+1177,113.0,2025-07-23,2025-04-11,432.84,Usa,Hamburg,Kiwilytics Goods Shipping Llc.,-103.0,OnTime,No
+1178,133.0,2025-02-19,2025-08-10,326.32,Usa,Montreal,Aramex International,172.0,Late,No
+1179,118.0,2025-09-02,2025-01-27,268.29,Germany,Paris,Ups Worldwide,-218.0,OnTime,Yes
+1180,110.0,2025-02-08,2025-01-06,389.83,Canada,Montreal,Ups Worldwide,-33.0,OnTime,Yes
+1181,198.0,2025-11-15,2025-09-11,300.07,Not_A_Country,Vancouver,Ups Worldwide,-65.0,OnTime,No
+1182,163.0,2025-08-01,2025-08-22,251.66,Germany,Toronto,Ups Worldwide,21.0,Late,Yes
+1183,123.0,2025-04-03,2025-05-26,10.4,Canada,Vancouver,Ups Worldwide,53.0,Late,Yes
+1184,162.0,2025-10-21,2025-08-20,80.04,Spain,Toronto,Fedex Logistics,-62.0,OnTime,Yes
+1185,191.0,2025-06-09,2025-09-23,462.69,Usa,Munich,Dhl Express,106.0,Late,No
+1186,159.0,2025-10-04,2025-11-15,196.78,Canada,Toronto,Dhl Express,42.0,Late,Yes
+1187,104.0,2025-06-15,2025-06-22,311.92,Spain,Montreal,Aramex International,7.0,OnTime,Yes
+1188,104.0,2025-09-16,2025-07-26,265.59,France,Vancouver,Ups Worldwide,-52.0,OnTime,No
+1189,193.0,2025-11-17,2025-10-27,57.65,Usa,Munich,Aramex International,-21.0,OnTime,No
+1190,163.0,2025-11-11,2025-03-09,342.15,France,Paris,Dhl Express,-247.0,OnTime,No
+1191,150.0,2025-03-20,2025-12-18,69.01,Canada,Montreal,Dhl Express,273.0,Late,Yes
+1192,191.0,2025-04-17,2025-12-20,379.53,Usa,Munich,Kiwilytics Goods Shipping Llc.,247.0,Late,No
+1193,172.0,,2025-03-11,342.79,Not_A_Country,Montreal,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1194,154.0,2025-04-22,2025-12-07,253.5,Not_A_Country,Vancouver,Ups Worldwide,229.0,Late,No
+1195,196.0,2025-01-28,2025-03-23,239.68,Not_A_Country,Munich,Aramex International,54.0,Late,No
+1196,176.0,2025-08-25,2025-08-10,144.43,Spain,Toronto,Dhl Express,-15.0,OnTime,Yes
+1197,152.0,2025-09-08,2025-08-04,18.98,Spain,Toronto,Dhl Express,-35.0,OnTime,Yes
+1198,199.0,2025-09-27,2025-04-08,258.81741685144124,Usa,Montreal,Aramex International,-172.0,OnTime,No
+1199,112.0,2025-11-26,2025-02-24,346.51,Not_A_Country,Hamburg,Fedex Logistics,-275.0,OnTime,No
+1200,137.0,2025-02-18,2025-07-21,208.71,Usa,Vancouver,Fedex Logistics,153.0,Late,No
+1201,150.0,2025-10-04,,169.29,Spain,Toronto,Ups Worldwide,,Unknown,Yes
+1202,138.0,2025-11-18,2025-11-27,75.77,Usa,Vancouver,Dhl Express,9.0,Late,No
+1203,171.0,2025-12-23,2025-11-21,282.59,Not_A_Country,Vancouver,Ups Worldwide,-32.0,OnTime,No
+1204,114.0,2025-05-20,2025-11-11,258.81741685144124,Usa,Toronto,Dhl Express,175.0,Late,No
+1205,110.0,2025-01-05,2025-07-23,315.75,Canada,Hamburg,Kiwilytics Goods Shipping Llc.,199.0,Late,Yes
+1206,131.0,2025-05-04,2025-12-12,305.49,Germany,Toronto,Dhl Express,222.0,Late,Yes
+1207,199.0,2025-12-14,2025-10-20,413.19,Not_A_Country,Toronto,Dhl Express,-55.0,OnTime,No
+1208,136.0,2025-11-17,2025-07-20,258.81741685144124,Usa,Paris,Ups Worldwide,-120.0,OnTime,No
+1209,157.0,2025-08-16,2025-12-10,420.25,Not_A_Country,Vancouver,Fedex Logistics,116.0,Late,No
+1210,197.0,2025-08-11,2025-06-06,270.66,Germany,Toronto,Kiwilytics Goods Shipping Llc.,-66.0,OnTime,Yes
+1211,112.0,2025-12-26,2025-05-25,81.28,Unknown,Hamburg,Ups Worldwide,-215.0,OnTime,No
+1212,183.0,2025-11-28,2025-01-02,258.81741685144124,Spain,Hamburg,Dhl Express,-330.0,OnTime,Yes
+1213,180.0,2025-05-02,2025-04-04,190.3,France,Munich,Ups Worldwide,-28.0,OnTime,No
+1214,145.0,2025-05-19,2025-06-03,85.25,Germany,Hamburg,Aramex International,15.0,Late,Yes
+1215,139.0,2025-08-09,2025-09-01,60.4,Usa,Paris,Ups Worldwide,23.0,Late,No
+1216,133.0,2025-08-19,2025-07-05,397.84,Usa,Munich,Ups Worldwide,-45.0,OnTime,No
+1217,127.0,2025-04-22,,335.04,France,Munich,Fedex Logistics,,Unknown,No
+1218,174.0,2025-09-21,2025-01-06,258.81741685144124,Germany,Hamburg,Fedex Logistics,-258.0,OnTime,Yes
+1219,111.0,2025-05-23,2025-10-15,380.61,Not_A_Country,Paris,Kiwilytics Goods Shipping Llc.,145.0,Late,No
+1220,193.0,2025-05-07,2025-04-19,137.39,Unknown,Munich,Dhl Express,-18.0,OnTime,No
+1221,124.0,2025-03-06,2025-03-28,466.37,Not_A_Country,Vancouver,Kiwilytics Goods Shipping Llc.,22.0,Late,No
+1222,103.0,2025-02-22,2025-11-21,72.13,France,Paris,Fedex Logistics,272.0,Late,No
+1223,127.0,2025-06-08,2025-07-08,327.51,Canada,Munich,Aramex International,30.0,Late,Yes
+1224,189.0,2025-06-28,2025-08-19,490.18,France,Vancouver,Kiwilytics Goods Shipping Llc.,52.0,Late,No
+1225,169.0,2025-01-05,2025-07-16,120.75,Germany,Montreal,Dhl Express,192.0,Late,Yes
+1226,126.0,2025-01-12,2025-04-19,471.05,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,97.0,Late,No
+1227,128.0,2025-03-11,2025-05-15,258.81741685144124,France,Paris,Ups Worldwide,65.0,Late,No
+1228,117.0,2025-01-20,2025-06-05,131.05,Not_A_Country,Toronto,Fedex Logistics,136.0,Late,No
+1229,181.0,2025-04-07,2025-08-12,265.38,France,Montreal,Aramex International,127.0,Late,No
+1230,105.0,2025-05-09,2025-12-05,449.85,Spain,Vancouver,Kiwilytics Goods Shipping Llc.,210.0,Late,Yes
+1231,172.0,2025-11-17,2025-05-06,109.67,France,Paris,Dhl Express,-195.0,OnTime,No
+1232,117.0,2025-05-23,2025-05-23,286.71,Canada,Paris,Kiwilytics Goods Shipping Llc.,0.0,OnTime,Yes
+1233,129.0,2025-10-06,2025-08-01,271.33,Not_A_Country,Hamburg,Dhl Express,-66.0,OnTime,No
+1234,189.0,2025-09-27,2025-02-20,403.38,Usa,Montreal,Dhl Express,-219.0,OnTime,No
+1235,154.0,2025-12-11,2025-06-26,278.18,France,Munich,Ups Worldwide,-168.0,OnTime,No
+1236,181.0,2025-01-22,2025-07-10,50.44,Germany,Hamburg,Ups Worldwide,169.0,Late,Yes
+1237,192.0,2025-10-20,2025-04-16,107.69,Canada,Munich,Dhl Express,-187.0,OnTime,Yes
+1238,175.0,2025-09-16,2025-12-23,169.02,Spain,Toronto,Fedex Logistics,98.0,Late,Yes
+1239,157.0,2025-05-09,2025-02-06,285.49,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-92.0,OnTime,Yes
+1240,184.0,2025-12-19,2025-05-07,359.21,Canada,Vancouver,Fedex Logistics,-226.0,OnTime,Yes
+1241,110.0,2025-03-23,2025-12-10,258.81741685144124,Spain,Montreal,Dhl Express,262.0,Late,Yes
+1242,131.0,2025-06-26,2025-11-12,146.83,Usa,Hamburg,Aramex International,139.0,Late,No
+1243,152.0,2025-05-11,2025-11-05,460.81,Not_A_Country,Vancouver,Kiwilytics Goods Shipping Llc.,178.0,Late,No
+1244,132.0,2025-04-09,2025-11-28,114.84,Canada,Paris,Ups Worldwide,233.0,Late,Yes
+1245,140.0,2025-07-22,2025-08-14,342.02,Spain,Vancouver,Kiwilytics Goods Shipping Llc.,23.0,Late,Yes
+1246,129.0,2025-02-21,2025-05-18,308.27,Usa,Hamburg,Dhl Express,86.0,Late,No
+1247,163.0,2025-06-03,2025-12-11,275.27,Canada,Munich,Kiwilytics Goods Shipping Llc.,191.0,Late,Yes
+1248,161.0,2025-06-18,2025-12-25,197.57,France,Vancouver,Kiwilytics Goods Shipping Llc.,190.0,Late,No
+1249,194.0,2025-05-14,2025-03-13,30.05,Not_A_Country,Hamburg,Ups Worldwide,-62.0,OnTime,No
+1250,129.0,2025-06-28,2025-04-02,484.23,Spain,Hamburg,Kiwilytics Goods Shipping Llc.,-87.0,OnTime,Yes
+1251,126.0,2025-11-06,2025-04-05,208.49,Germany,Vancouver,Kiwilytics Goods Shipping Llc.,-215.0,OnTime,Yes
+1252,110.0,2025-09-22,2025-09-03,445.5,Germany,Paris,Dhl Express,-19.0,OnTime,Yes
+1253,125.0,2025-10-19,2025-09-24,294.5,Usa,Montreal,Ups Worldwide,-25.0,OnTime,No
+1254,142.0,2025-02-12,2025-02-06,464.46,France,Munich,Ups Worldwide,-6.0,OnTime,No
+1255,107.0,2025-12-09,2025-07-06,258.81741685144124,Canada,Hamburg,Ups Worldwide,-156.0,OnTime,Yes
+1256,136.0,2025-07-27,2025-09-22,426.88,Spain,Toronto,Fedex Logistics,57.0,Late,Yes
+1257,109.0,2025-12-19,2025-11-14,258.81741685144124,Germany,Hamburg,Fedex Logistics,-35.0,OnTime,Yes
+1258,195.0,2025-09-17,2025-02-25,386.07,Canada,Montreal,Kiwilytics Goods Shipping Llc.,-204.0,OnTime,Yes
+1259,128.0,2025-04-13,2025-10-14,16.49,Spain,Toronto,Dhl Express,184.0,Late,Yes
+1260,138.0,2025-08-22,2025-04-16,137.13,Spain,Munich,Dhl Express,-128.0,OnTime,Yes
+1261,173.0,2025-11-19,2025-01-15,243.54,Germany,Toronto,Aramex International,-308.0,OnTime,Yes
+1262,140.0,2025-08-13,2025-10-10,187.0,France,Vancouver,Ups Worldwide,58.0,Late,No
+1263,140.0,2025-06-09,2025-08-23,156.41,Not_A_Country,Paris,Aramex International,75.0,Late,No
+1264,152.0,2025-09-17,2025-02-08,280.13,Spain,Toronto,Fedex Logistics,-221.0,OnTime,Yes
+1265,120.0,2025-10-01,2025-04-13,239.57,Spain,Munich,Fedex Logistics,-171.0,OnTime,Yes
+1266,116.0,2025-08-19,2025-05-09,25.12,Canada,Munich,Kiwilytics Goods Shipping Llc.,-102.0,OnTime,Yes
+1267,180.0,2025-04-24,2025-12-24,347.49,Not_A_Country,Montreal,Dhl Express,244.0,Late,No
+1268,188.0,,,262.28,France,Munich,Ups Worldwide,,Unknown,No
+1269,142.0,2025-01-24,2025-04-04,258.81741685144124,France,Munich,Fedex Logistics,70.0,Late,No
+1270,167.0,2025-12-23,2025-08-28,74.65,Not_A_Country,Toronto,Dhl Express,-117.0,OnTime,No
+1271,103.0,2025-03-06,2025-12-12,282.86,Not_A_Country,Hamburg,Dhl Express,281.0,Late,No
+1272,123.0,2025-05-03,2025-01-02,258.81741685144124,France,Hamburg,Aramex International,-121.0,OnTime,No
+1273,147.0,2025-07-12,2025-10-25,398.38,Usa,Munich,Aramex International,105.0,Late,No
+1274,118.0,2025-09-12,2025-09-01,172.08,Usa,Hamburg,Kiwilytics Goods Shipping Llc.,-11.0,OnTime,No
+1275,138.0,2025-02-24,2025-09-06,47.27,Unknown,Hamburg,Dhl Express,194.0,Late,No
+1276,174.0,2025-11-03,2025-04-02,258.81741685144124,Not_A_Country,Montreal,Ups Worldwide,-215.0,OnTime,No
+1277,173.0,2025-05-06,2025-11-12,258.81741685144124,France,Munich,Kiwilytics Goods Shipping Llc.,190.0,Late,No
+1278,131.0,2025-12-24,2025-06-02,499.0,France,Toronto,Fedex Logistics,-205.0,OnTime,No
+1279,199.0,,2025-08-12,402.55,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1280,178.0,,2025-01-15,133.99,Not_A_Country,Montreal,Fedex Logistics,,Unknown,No
+1281,194.0,2025-12-07,2025-04-16,290.61,France,Hamburg,Dhl Express,-235.0,OnTime,No
+1282,133.0,2025-05-24,2025-06-01,235.3,Usa,Hamburg,Ups Worldwide,8.0,Late,No
+1283,165.0,2025-12-19,,286.72,Germany,Toronto,Aramex International,,Unknown,Yes
+1284,145.0,2025-02-22,2025-02-06,476.83,Spain,Vancouver,Dhl Express,-16.0,OnTime,Yes
+1285,135.0,2025-09-14,2025-10-12,237.77,Not_A_Country,Vancouver,Ups Worldwide,28.0,Late,No
+1286,103.0,2025-11-23,2025-03-05,106.89,Spain,Toronto,Kiwilytics Goods Shipping Llc.,-263.0,OnTime,Yes
+1287,137.0,2025-12-10,2025-01-01,253.7,Spain,Munich,Kiwilytics Goods Shipping Llc.,-343.0,OnTime,Yes
+1288,145.0,2025-01-27,2025-09-10,450.12,Not_A_Country,Paris,Fedex Logistics,226.0,Late,No
+1289,158.0,2025-07-26,2025-08-25,141.33,Usa,Munich,Fedex Logistics,30.0,Late,No
+1290,139.0,,2025-05-22,227.67,Unknown,Hamburg,Ups Worldwide,,Unknown,No
+1291,199.0,2025-05-20,2025-11-21,258.81741685144124,Spain,Paris,Kiwilytics Goods Shipping Llc.,185.0,Late,Yes
+1292,192.0,2025-01-18,2025-05-09,404.7,Germany,Vancouver,Kiwilytics Goods Shipping Llc.,111.0,Late,Yes
+1293,119.0,2025-01-21,,408.43,Not_A_Country,Paris,Ups Worldwide,,Unknown,No
+1294,173.0,2025-02-11,2025-05-08,47.27,Usa,Montreal,Dhl Express,86.0,Late,No
+1295,126.0,2025-08-23,2025-01-16,111.05,Germany,Paris,Kiwilytics Goods Shipping Llc.,-219.0,OnTime,Yes
+1296,198.0,2025-12-14,2025-06-12,221.8,France,Paris,Ups Worldwide,-185.0,OnTime,No
+1297,152.0,2025-11-07,2025-06-06,258.81741685144124,Not_A_Country,Paris,Dhl Express,-154.0,OnTime,No
+1298,123.0,2025-08-20,2025-03-14,251.39,France,Montreal,Aramex International,-159.0,OnTime,No
+1299,158.0,,2025-11-05,146.58,Spain,Toronto,Fedex Logistics,,Unknown,Yes
+1300,174.0,2025-12-24,2025-11-04,340.72,Spain,Hamburg,Dhl Express,-50.0,OnTime,Yes
+1301,128.0,2025-08-22,2025-07-02,285.25,France,Vancouver,Kiwilytics Goods Shipping Llc.,-51.0,OnTime,No
+1302,189.0,2025-12-08,2025-06-07,365.47,Canada,Munich,Aramex International,-184.0,OnTime,Yes
+1303,119.0,2025-05-25,2025-06-26,465.02,Spain,Toronto,Dhl Express,32.0,Late,Yes
+1304,142.0,2025-12-23,2025-10-01,311.94,Not_A_Country,Vancouver,Dhl Express,-83.0,OnTime,No
+1305,162.0,2025-12-24,2025-12-04,108.71,Germany,Munich,Fedex Logistics,-20.0,OnTime,Yes
+1306,125.0,2025-05-23,,258.81741685144124,Spain,Toronto,Fedex Logistics,,Unknown,Yes
+1307,152.0,2025-09-10,2025-04-22,464.87,Not_A_Country,Paris,Ups Worldwide,-141.0,OnTime,No
+1308,153.0,2025-01-07,2025-02-22,272.7,Spain,Montreal,Aramex International,46.0,Late,Yes
+1309,178.0,2025-11-13,2025-08-17,468.41,France,Hamburg,Aramex International,-88.0,OnTime,No
+1310,105.0,2025-07-22,,275.86,Usa,Munich,Ups Worldwide,,Unknown,No
+1311,168.0,2025-06-20,2025-09-19,437.85,Not_A_Country,Montreal,Ups Worldwide,91.0,Late,No
+1312,183.0,2025-08-03,2025-05-28,179.62,Usa,Munich,Dhl Express,-67.0,OnTime,No
+1313,146.0,2025-03-18,2025-02-09,173.64,Usa,Paris,Aramex International,-37.0,OnTime,No
+1314,151.0,2025-12-19,2025-06-26,103.82,Canada,Montreal,Kiwilytics Goods Shipping Llc.,-176.0,OnTime,Yes
+1315,199.0,2025-01-26,2025-04-27,127.48,Not_A_Country,Vancouver,Dhl Express,91.0,Late,No
+1316,104.0,2025-12-22,2025-03-25,421.4,Not_A_Country,Vancouver,Fedex Logistics,-272.0,OnTime,No
+1317,152.0,2025-11-25,2025-10-07,86.72,Germany,Munich,Fedex Logistics,-49.0,OnTime,Yes
+1318,137.0,2025-10-05,2025-05-15,247.27,Canada,Montreal,Aramex International,-143.0,OnTime,Yes
+1319,129.0,2025-12-20,2025-10-20,319.85,Canada,Paris,Ups Worldwide,-61.0,OnTime,Yes
+1320,101.0,2025-12-10,,192.72,Not_A_Country,Toronto,Dhl Express,,Unknown,No
+1321,130.0,2025-07-15,2025-05-25,405.94,Not_A_Country,Toronto,Aramex International,-51.0,OnTime,No
+1322,178.0,2025-04-06,2025-03-10,422.77,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-27.0,OnTime,Yes
+1323,179.0,2025-08-01,2025-01-26,63.94,Germany,Paris,Kiwilytics Goods Shipping Llc.,-187.0,OnTime,Yes
+1324,197.0,2025-11-22,2025-09-16,46.24,Not_A_Country,Hamburg,Dhl Express,-67.0,OnTime,No
+1325,179.0,2025-11-27,2025-02-24,482.36,Usa,Toronto,Fedex Logistics,-276.0,OnTime,No
+1326,145.0,2025-08-28,2025-11-17,40.36,Germany,Vancouver,Dhl Express,81.0,Late,Yes
+1327,128.0,2025-10-05,2025-09-21,283.47,France,Toronto,Kiwilytics Goods Shipping Llc.,-14.0,OnTime,No
+1328,135.0,2025-04-01,2025-07-28,407.85,Usa,Paris,Dhl Express,118.0,Late,No
+1329,187.0,2025-09-03,2025-07-12,93.13,Spain,Montreal,Ups Worldwide,-53.0,OnTime,Yes
+1330,190.0,2025-09-05,2025-09-05,28.18,Spain,Vancouver,Dhl Express,0.0,OnTime,Yes
+1331,129.0,2025-09-19,2025-06-25,331.92,France,Toronto,Ups Worldwide,-86.0,OnTime,No
+1332,138.0,2025-04-14,2025-06-04,59.21,Spain,Munich,Aramex International,51.0,Late,Yes
+1333,144.0,2025-05-21,2025-01-02,440.47,Usa,Munich,Aramex International,-139.0,OnTime,No
+1334,144.0,2025-05-25,2025-06-23,196.74,Not_A_Country,Vancouver,Ups Worldwide,29.0,Late,No
+1335,146.0,2025-09-28,,491.15,Not_A_Country,Montreal,Dhl Express,,Unknown,No
+1336,104.0,2025-06-14,2025-01-25,429.95,Not_A_Country,Montreal,Kiwilytics Goods Shipping Llc.,-140.0,OnTime,No
+1337,175.0,2025-08-20,2025-01-07,182.5,Not_A_Country,Montreal,Dhl Express,-225.0,OnTime,No
+1338,105.0,2025-03-14,2025-01-01,169.57,Germany,Vancouver,Ups Worldwide,-72.0,OnTime,Yes
+1339,112.0,2025-05-12,2025-01-23,10.38,Usa,Vancouver,Fedex Logistics,-109.0,OnTime,No
+1340,180.0,2025-03-16,2025-10-27,102.94,Spain,Hamburg,Fedex Logistics,225.0,Late,Yes
+1341,184.0,2025-04-10,2025-07-06,87.42,Germany,Toronto,Fedex Logistics,87.0,Late,Yes
+1342,166.0,2025-11-21,2025-01-01,246.46,Not_A_Country,Montreal,Kiwilytics Goods Shipping Llc.,-324.0,OnTime,No
+1343,199.0,2025-03-19,2025-04-15,384.83,Usa,Paris,Fedex Logistics,27.0,Late,No
+1344,178.0,2025-10-17,2025-05-21,377.26,Not_A_Country,Hamburg,Fedex Logistics,-149.0,OnTime,No
+1345,186.0,2025-05-28,2025-09-08,321.46,Canada,Paris,Aramex International,103.0,Late,Yes
+1346,172.0,2025-03-05,2025-03-25,38.8,Usa,Montreal,Kiwilytics Goods Shipping Llc.,20.0,Late,No
+1347,179.0,2025-09-16,2025-06-18,402.27,France,Montreal,Fedex Logistics,-90.0,OnTime,No
+1348,129.0,2025-08-03,2025-12-06,447.5,Germany,Toronto,Dhl Express,125.0,Late,Yes
+1349,129.0,2025-10-05,2025-01-14,328.12,Germany,Montreal,Fedex Logistics,-264.0,OnTime,Yes
+1350,195.0,,2025-03-01,66.18,France,Toronto,Dhl Express,,Unknown,No
+1351,179.0,,2025-11-15,97.24,Usa,Paris,Ups Worldwide,,Unknown,No
+1352,148.0,,2025-08-07,278.57,France,Montreal,Fedex Logistics,,Unknown,No
+1353,132.0,2025-09-02,2025-07-21,108.76,Canada,Paris,Fedex Logistics,-43.0,OnTime,Yes
+1354,168.0,2025-11-10,2025-09-27,280.28,Canada,Paris,Dhl Express,-44.0,OnTime,Yes
+1355,101.0,2025-04-13,2025-12-12,17.08,Spain,Munich,Aramex International,243.0,Late,Yes
+1356,172.0,2025-09-22,2025-04-04,368.65,Spain,Toronto,Ups Worldwide,-171.0,OnTime,Yes
+1357,194.0,2025-12-22,2025-04-12,184.81,Not_A_Country,Hamburg,Dhl Express,-254.0,OnTime,No
+1358,157.0,2025-08-10,,258.81741685144124,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1359,173.0,2025-07-13,2025-11-07,258.81741685144124,Not_A_Country,Munich,Ups Worldwide,117.0,Late,No
+1360,141.0,,2025-12-13,273.26,Germany,Hamburg,Fedex Logistics,,Unknown,Yes
+1361,139.0,2025-05-07,2025-10-13,163.66,Canada,Montreal,Kiwilytics Goods Shipping Llc.,159.0,Late,Yes
+1362,146.0,2025-11-13,2025-06-02,291.98,France,Munich,Kiwilytics Goods Shipping Llc.,-164.0,OnTime,No
+1363,177.0,2025-08-24,2025-11-02,464.76,Germany,Paris,Dhl Express,70.0,Late,Yes
+1364,179.0,2025-12-26,2025-12-27,413.88,Germany,Toronto,Dhl Express,1.0,OnTime,Yes
+1365,179.0,2025-06-23,2025-09-26,115.66,Germany,Hamburg,Aramex International,95.0,Late,Yes
+1366,164.0,2025-05-05,2025-01-01,326.03,Canada,Munich,Dhl Express,-124.0,OnTime,Yes
+1367,160.0,2025-02-09,2025-09-27,305.42,Germany,Toronto,Dhl Express,230.0,Late,Yes
+1368,166.0,2025-04-12,2025-05-25,325.27,Spain,Munich,Aramex International,43.0,Late,Yes
+1369,163.0,2025-11-14,2025-04-24,292.77,Spain,Hamburg,Dhl Express,-204.0,OnTime,Yes
+1370,139.0,2025-06-08,2025-09-20,221.82,Not_A_Country,Munich,Fedex Logistics,104.0,Late,No
+1371,128.0,2025-09-14,2025-02-03,395.93,Not_A_Country,Munich,Aramex International,-223.0,OnTime,No
+1372,198.0,2025-02-04,2025-02-04,149.13,Spain,Vancouver,Dhl Express,0.0,OnTime,Yes
+1373,131.0,2025-11-19,2025-06-28,25.14,France,Toronto,Fedex Logistics,-144.0,OnTime,No
+1374,180.0,2025-04-13,2025-05-26,110.04,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,43.0,Late,Yes
+1375,117.0,2025-08-27,2025-10-23,61.71,France,Paris,Aramex International,57.0,Late,No
+1376,103.0,2025-02-02,2025-09-13,258.81741685144124,Usa,Vancouver,Ups Worldwide,223.0,Late,No
+1377,174.0,2025-11-26,2025-11-02,187.96,Spain,Munich,Aramex International,-24.0,OnTime,Yes
+1378,199.0,2025-11-01,2025-12-21,277.77,Not_A_Country,Montreal,Ups Worldwide,50.0,Late,No
+1379,122.0,2025-08-16,2025-08-11,197.59,France,Munich,Ups Worldwide,-5.0,OnTime,No
+1380,155.0,2025-07-25,2025-03-13,158.09,Canada,Munich,Ups Worldwide,-134.0,OnTime,Yes
+1381,108.0,2025-05-18,2025-04-03,251.57,Not_A_Country,Paris,Ups Worldwide,-45.0,OnTime,No
+1382,167.0,2025-03-15,2025-10-28,54.75,France,Toronto,Fedex Logistics,227.0,Late,No
+1383,156.0,2025-04-23,2025-01-14,342.37,Not_A_Country,Toronto,Ups Worldwide,-99.0,OnTime,No
+1384,129.0,2025-04-14,2025-01-10,227.52,Canada,Toronto,Ups Worldwide,-94.0,OnTime,Yes
+1385,157.0,2025-11-16,2025-05-17,258.81741685144124,Usa,Hamburg,Dhl Express,-183.0,OnTime,No
+1386,164.0,2025-12-16,2025-06-08,240.99,France,Vancouver,Kiwilytics Goods Shipping Llc.,-191.0,OnTime,No
+1387,104.0,2025-12-07,2025-12-17,102.8,France,Hamburg,Aramex International,10.0,Late,No
+1388,124.0,2025-07-18,2025-04-27,56.19,Germany,Montreal,Kiwilytics Goods Shipping Llc.,-82.0,OnTime,Yes
+1389,164.0,2025-01-19,,77.44,Canada,Paris,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1390,170.0,2025-02-18,2025-10-21,238.79,Spain,Hamburg,Ups Worldwide,245.0,Late,Yes
+1391,112.0,2025-01-10,2025-06-06,258.81741685144124,Usa,Toronto,Aramex International,147.0,Late,No
+1392,186.0,2025-06-19,2025-02-07,382.12,France,Toronto,Kiwilytics Goods Shipping Llc.,-132.0,OnTime,No
+1393,143.0,2025-06-23,2025-11-27,370.59,Germany,Munich,Fedex Logistics,157.0,Late,Yes
+1394,195.0,2025-09-02,2025-03-27,478.4,Canada,Montreal,Fedex Logistics,-159.0,OnTime,Yes
+1395,167.0,2025-10-13,2025-09-23,258.81741685144124,Spain,Munich,Kiwilytics Goods Shipping Llc.,-20.0,OnTime,Yes
+1396,137.0,2025-08-01,2025-08-11,355.78,France,Munich,Kiwilytics Goods Shipping Llc.,10.0,Late,No
+1397,188.0,2025-01-04,2025-05-26,483.49,Usa,Toronto,Dhl Express,142.0,Late,No
+1398,160.0,2025-10-19,2025-04-03,54.28,France,Munich,Ups Worldwide,-199.0,OnTime,No
+1399,172.0,2025-02-26,2025-06-01,466.4,France,Montreal,Aramex International,95.0,Late,No
+1400,128.0,2025-10-26,2025-08-14,23.8,Usa,Paris,Kiwilytics Goods Shipping Llc.,-73.0,OnTime,No
+1401,192.0,2025-04-04,2025-01-14,134.73,France,Paris,Aramex International,-80.0,OnTime,No
+1402,106.0,2025-08-03,2025-02-01,258.81741685144124,France,Montreal,Fedex Logistics,-183.0,OnTime,No
+1403,174.0,2025-09-10,2025-09-12,357.1,Spain,Munich,Dhl Express,2.0,OnTime,Yes
+1404,184.0,2025-06-14,,344.18,Canada,Munich,Ups Worldwide,,Unknown,Yes
+1405,152.0,2025-07-19,2025-06-11,258.81741685144124,Spain,Toronto,Ups Worldwide,-38.0,OnTime,Yes
+1406,170.0,2025-09-16,2025-08-09,368.13,Germany,Munich,Fedex Logistics,-38.0,OnTime,Yes
+1407,150.0,2025-07-26,2025-01-18,449.91,Canada,Paris,Ups Worldwide,-189.0,OnTime,Yes
+1408,178.0,2025-07-15,2025-09-11,186.52,Germany,Hamburg,Fedex Logistics,58.0,Late,Yes
+1409,106.0,2025-10-14,2025-07-10,314.35,France,Munich,Aramex International,-96.0,OnTime,No
+1410,107.0,2025-01-09,2025-07-19,480.23,Not_A_Country,Hamburg,Kiwilytics Goods Shipping Llc.,191.0,Late,No
+1411,135.0,2025-09-02,2025-03-14,413.94,Canada,Hamburg,Aramex International,-172.0,OnTime,Yes
+1412,123.0,2025-07-10,2025-03-21,258.81741685144124,Unknown,Hamburg,Fedex Logistics,-111.0,OnTime,No
+1413,103.0,2025-05-24,,349.64,Germany,Paris,Aramex International,,Unknown,Yes
+1414,135.0,2025-11-11,2025-01-23,119.11,France,Toronto,Ups Worldwide,-292.0,OnTime,No
+1415,183.0,2025-05-22,2025-12-13,195.59,Not_A_Country,Montreal,Kiwilytics Goods Shipping Llc.,205.0,Late,No
+1416,117.0,2025-07-26,2025-01-17,230.26,France,Paris,Ups Worldwide,-190.0,OnTime,No
+1417,159.0,2025-03-02,2025-01-20,375.74,Canada,Montreal,Kiwilytics Goods Shipping Llc.,-41.0,OnTime,Yes
+1418,147.0,2025-07-26,2025-09-19,346.86,France,Hamburg,Ups Worldwide,55.0,Late,No
+1419,169.0,,2025-08-03,147.65,Canada,Vancouver,Dhl Express,,Unknown,Yes
+1420,163.0,2025-07-15,2025-06-09,348.58,Spain,Paris,Ups Worldwide,-36.0,OnTime,Yes
+1421,126.0,2025-11-04,2025-12-16,403.61,Germany,Paris,Fedex Logistics,42.0,Late,Yes
+1422,128.0,2025-09-01,2025-11-08,430.86,Usa,Montreal,Fedex Logistics,68.0,Late,No
+1423,160.0,2025-11-14,2025-11-16,258.81741685144124,Not_A_Country,Hamburg,Kiwilytics Goods Shipping Llc.,2.0,OnTime,No
+1424,168.0,2025-11-24,2025-10-26,293.18,Canada,Hamburg,Dhl Express,-29.0,OnTime,Yes
+1425,135.0,2025-12-21,2025-06-02,383.12,Germany,Toronto,Ups Worldwide,-202.0,OnTime,Yes
+1426,131.0,2025-04-05,2025-01-01,339.42,Usa,Toronto,Aramex International,-94.0,OnTime,No
+1427,192.0,2025-08-26,2025-05-22,220.37,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,-96.0,OnTime,No
+1428,172.0,2025-08-10,2025-10-23,162.25,Germany,Montreal,Aramex International,74.0,Late,Yes
+1429,191.0,2025-05-08,2025-12-09,81.91,Spain,Hamburg,Dhl Express,215.0,Late,Yes
+1430,128.0,2025-11-09,2025-02-10,354.49,Canada,Montreal,Kiwilytics Goods Shipping Llc.,-272.0,OnTime,Yes
+1431,182.0,2025-02-20,2025-04-07,369.78,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,46.0,Late,Yes
+1432,169.0,2025-09-18,2025-11-03,207.68,Germany,Hamburg,Aramex International,46.0,Late,Yes
+1433,115.0,2025-02-20,2025-04-21,489.2,Canada,Toronto,Ups Worldwide,60.0,Late,Yes
+1434,144.0,2025-09-01,2025-01-22,375.85,France,Paris,Aramex International,-222.0,OnTime,No
+1435,167.0,2025-02-14,2025-08-26,15.45,Not_A_Country,Paris,Kiwilytics Goods Shipping Llc.,193.0,Late,No
+1436,102.0,2025-11-23,2025-09-05,259.09,Usa,Toronto,Aramex International,-79.0,OnTime,No
+1437,102.0,2025-07-22,2025-07-21,134.88,Usa,Montreal,Ups Worldwide,-1.0,OnTime,No
+1438,179.0,2025-11-19,2025-06-25,258.81741685144124,Spain,Toronto,Fedex Logistics,-147.0,OnTime,Yes
+1439,183.0,2025-05-03,2025-03-03,248.64,Usa,Hamburg,Aramex International,-61.0,OnTime,No
+1440,157.0,2025-10-25,2025-02-26,361.21,Germany,Toronto,Kiwilytics Goods Shipping Llc.,-241.0,OnTime,Yes
+1441,100.0,2025-03-14,2025-09-09,174.14,Spain,Hamburg,Kiwilytics Goods Shipping Llc.,179.0,Late,Yes
+1442,163.0,2025-10-04,2025-10-02,115.58,Canada,Hamburg,Fedex Logistics,-2.0,OnTime,Yes
+1443,141.0,2025-02-22,2025-01-11,482.71,Germany,Toronto,Dhl Express,-42.0,OnTime,Yes
+1444,166.0,2025-08-06,2025-12-14,424.88,Usa,Paris,Kiwilytics Goods Shipping Llc.,130.0,Late,No
+1445,153.0,2025-08-10,2025-12-23,379.38,Spain,Hamburg,Dhl Express,135.0,Late,Yes
+1446,148.0,2025-07-28,2025-08-04,316.06,France,Montreal,Kiwilytics Goods Shipping Llc.,7.0,OnTime,No
+1447,166.0,2025-11-22,2025-01-21,12.82,Canada,Toronto,Ups Worldwide,-305.0,OnTime,Yes
+1448,108.0,2025-01-13,2025-05-06,484.51,Spain,Toronto,Ups Worldwide,113.0,Late,Yes
+1449,106.0,2025-11-17,2025-09-27,163.06,Spain,Munich,Aramex International,-51.0,OnTime,Yes
+1450,193.0,2025-06-01,2025-05-09,243.31,Canada,Toronto,Fedex Logistics,-23.0,OnTime,Yes
+1451,181.0,2025-02-04,2025-12-02,345.81,Canada,Vancouver,Ups Worldwide,301.0,Late,Yes
+1452,171.0,2025-03-04,2025-11-10,258.81741685144124,Not_A_Country,Toronto,Ups Worldwide,251.0,Late,No
+1453,176.0,2025-03-04,2025-07-04,226.51,Usa,Toronto,Kiwilytics Goods Shipping Llc.,122.0,Late,No
+1454,192.0,2025-09-14,2025-01-18,65.42,Usa,Munich,Ups Worldwide,-239.0,OnTime,No
+1455,105.0,2025-06-26,2025-04-03,258.81741685144124,France,Montreal,Ups Worldwide,-84.0,OnTime,No
+1456,143.0,2025-04-18,2025-03-25,373.69,Spain,Toronto,Dhl Express,-24.0,OnTime,Yes
+1457,181.0,2025-09-12,2025-09-11,249.9,Not_A_Country,Montreal,Aramex International,-1.0,OnTime,No
+1458,103.0,2025-09-21,2025-06-08,297.46,Spain,Montreal,Kiwilytics Goods Shipping Llc.,-105.0,OnTime,Yes
+1459,169.0,2025-08-20,2025-01-12,46.41,Canada,Munich,Kiwilytics Goods Shipping Llc.,-220.0,OnTime,Yes
+1460,100.0,2025-02-13,2025-11-02,367.93,Spain,Paris,Kiwilytics Goods Shipping Llc.,262.0,Late,Yes
+1461,118.0,2025-04-21,2025-09-26,258.81741685144124,France,Toronto,Dhl Express,158.0,Late,No
+1462,181.0,2025-03-14,2025-04-15,258.81741685144124,Canada,Paris,Aramex International,32.0,Late,Yes
+1463,145.0,2025-03-05,2025-10-04,347.95,Spain,Paris,Ups Worldwide,213.0,Late,Yes
+1464,198.0,2025-03-13,2025-11-09,427.47,Germany,Toronto,Kiwilytics Goods Shipping Llc.,241.0,Late,Yes
+1465,158.0,2025-10-20,2025-12-11,94.27,Spain,Toronto,Ups Worldwide,52.0,Late,Yes
+1466,133.0,2025-06-23,2025-01-21,82.61,France,Montreal,Dhl Express,-153.0,OnTime,No
+1467,119.0,2025-01-21,2025-08-05,154.3,Not_A_Country,Montreal,Dhl Express,196.0,Late,No
+1468,107.0,2025-11-12,2025-05-09,86.46,Spain,Montreal,Ups Worldwide,-187.0,OnTime,Yes
+1469,154.0,,2025-08-21,261.5,France,Paris,Aramex International,,Unknown,No
+1470,104.0,2025-10-01,2025-12-18,402.81,France,Montreal,Fedex Logistics,78.0,Late,No
+1471,170.0,2025-10-04,2025-10-20,258.81741685144124,Canada,Vancouver,Dhl Express,16.0,Late,Yes
+1472,163.0,2025-12-02,2025-03-04,213.73,France,Hamburg,Fedex Logistics,-273.0,OnTime,No
+1473,152.0,2025-09-19,2025-03-27,320.32,Germany,Montreal,Dhl Express,-176.0,OnTime,Yes
+1474,116.0,2025-02-16,2025-04-08,432.63,Germany,Hamburg,Aramex International,51.0,Late,Yes
+1475,147.0,2025-07-01,2025-10-18,79.11,France,Vancouver,Ups Worldwide,109.0,Late,No
+1476,147.0,2025-06-21,,258.81741685144124,Unknown,Toronto,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1477,117.0,2025-01-28,2025-09-15,241.25,Not_A_Country,Hamburg,Fedex Logistics,230.0,Late,No
+1478,133.0,2025-03-06,2025-06-28,276.14,France,Vancouver,Fedex Logistics,114.0,Late,No
+1479,100.0,2025-08-18,2025-09-18,273.24,Usa,Hamburg,Aramex International,31.0,Late,No
+1480,134.0,2025-05-06,2025-06-14,82.67,Spain,Vancouver,Fedex Logistics,39.0,Late,Yes
+1481,159.0,2025-01-19,2025-06-09,45.9,Usa,Paris,Ups Worldwide,141.0,Late,No
+1482,102.0,2025-04-26,2025-04-17,47.57,Spain,Toronto,Kiwilytics Goods Shipping Llc.,-9.0,OnTime,Yes
+1483,146.0,2025-12-12,2025-04-05,287.16,Not_A_Country,Paris,Aramex International,-251.0,OnTime,No
+1484,163.0,2025-09-12,2025-05-07,434.32,France,Toronto,Kiwilytics Goods Shipping Llc.,-128.0,OnTime,No
+1485,100.0,2025-05-19,2025-12-12,157.28,Not_A_Country,Vancouver,Fedex Logistics,207.0,Late,No
+1486,107.0,2025-12-14,2025-08-22,193.95,Germany,Hamburg,Dhl Express,-114.0,OnTime,Yes
+1487,123.0,2025-06-01,2025-02-17,258.81741685144124,Germany,Montreal,Fedex Logistics,-104.0,OnTime,Yes
+1488,105.0,2025-10-05,2025-08-04,477.49,Usa,Vancouver,Ups Worldwide,-62.0,OnTime,No
+1489,182.0,2025-04-04,2025-12-12,180.87,France,Paris,Aramex International,252.0,Late,No
+1490,185.0,2025-06-02,2025-12-15,363.76,Usa,Montreal,Kiwilytics Goods Shipping Llc.,196.0,Late,No
+1491,115.0,2025-04-27,2025-06-18,391.31,Not_A_Country,Vancouver,Fedex Logistics,52.0,Late,No
+1492,132.0,2025-05-20,,140.41,Not_A_Country,Montreal,Aramex International,,Unknown,No
+1493,104.0,2025-05-20,2025-06-01,478.52,Spain,Montreal,Ups Worldwide,12.0,Late,Yes
+1494,142.0,2025-03-25,2025-12-24,27.39,France,Montreal,Aramex International,274.0,Late,No
+1495,142.0,2025-06-28,2025-12-14,27.49,Not_A_Country,Montreal,Dhl Express,169.0,Late,No
+1496,141.0,2025-05-28,2025-04-23,489.96,Unknown,Paris,Dhl Express,-35.0,OnTime,No
+1497,137.0,2025-05-16,2025-10-11,142.7,Usa,Toronto,Aramex International,148.0,Late,No
+1498,126.0,2025-06-10,2025-03-19,274.03,Canada,Hamburg,Fedex Logistics,-83.0,OnTime,Yes
+1499,104.0,2025-03-12,2025-06-25,307.97,Germany,Montreal,Kiwilytics Goods Shipping Llc.,105.0,Late,Yes
+1500,151.0,2025-04-06,2025-10-20,258.81741685144124,Spain,Hamburg,Ups Worldwide,197.0,Late,Yes
+1501,126.0,,2025-06-04,292.28,Not_A_Country,Toronto,Ups Worldwide,,Unknown,No
+1502,173.0,2025-07-23,2025-02-19,319.06,Canada,Montreal,Aramex International,-154.0,OnTime,Yes
+1503,182.0,2025-01-11,2025-10-24,222.59,Usa,Munich,Kiwilytics Goods Shipping Llc.,286.0,Late,No
+1504,119.0,2025-09-27,2025-11-04,411.92,Not_A_Country,Hamburg,Ups Worldwide,38.0,Late,No
+1505,136.0,2025-01-24,2025-02-08,189.84,Canada,Toronto,Fedex Logistics,15.0,Late,Yes
+1506,191.0,2025-10-07,,206.86,Canada,Munich,Aramex International,,Unknown,Yes
+1507,146.0,2025-02-25,2025-05-21,364.02,Usa,Vancouver,Aramex International,85.0,Late,No
+1508,172.0,2025-10-20,2025-01-27,258.81741685144124,France,Hamburg,Aramex International,-266.0,OnTime,No
+1509,195.0,2025-01-14,2025-01-28,267.6,Germany,Paris,Aramex International,14.0,Late,Yes
+1510,192.0,2025-03-22,2025-07-06,290.21,Not_A_Country,Vancouver,Dhl Express,106.0,Late,No
+1511,174.0,2025-12-21,2025-07-07,316.11,Germany,Munich,Aramex International,-167.0,OnTime,Yes
+1512,124.0,2025-03-27,2025-03-18,217.32,Usa,Vancouver,Ups Worldwide,-9.0,OnTime,No
+1513,186.0,2025-12-18,2025-10-04,260.49,France,Hamburg,Ups Worldwide,-75.0,OnTime,No
+1514,142.0,2025-11-22,2025-07-12,264.83,Canada,Vancouver,Aramex International,-133.0,OnTime,Yes
+1515,122.0,2025-09-05,2025-05-15,372.35,Germany,Montreal,Ups Worldwide,-113.0,OnTime,Yes
+1516,199.0,2025-11-01,2025-08-27,265.88,Not_A_Country,Hamburg,Ups Worldwide,-66.0,OnTime,No
+1517,146.0,2025-04-23,2025-01-28,357.75,Spain,Paris,Fedex Logistics,-85.0,OnTime,Yes
+1518,130.0,2025-11-13,2025-03-24,203.21,Not_A_Country,Vancouver,Ups Worldwide,-234.0,OnTime,No
+1519,113.0,2025-02-06,2025-05-20,389.13,France,Vancouver,Dhl Express,103.0,Late,No
+1520,130.0,,2025-09-23,295.18,Spain,Paris,Ups Worldwide,,Unknown,Yes
+1521,141.0,2025-01-27,2025-07-05,433.59,Germany,Munich,Dhl Express,159.0,Late,Yes
+1522,142.0,2025-06-28,2025-06-20,222.22,Spain,Paris,Kiwilytics Goods Shipping Llc.,-8.0,OnTime,Yes
+1523,119.0,2025-08-22,2025-09-14,157.33,Spain,Vancouver,Aramex International,23.0,Late,Yes
+1524,169.0,2025-04-21,2025-12-02,164.68,Germany,Vancouver,Kiwilytics Goods Shipping Llc.,225.0,Late,Yes
+1525,177.0,2025-06-27,2025-01-06,177.99,Usa,Hamburg,Ups Worldwide,-172.0,OnTime,No
+1526,165.0,2025-08-21,2025-07-05,16.19,Canada,Toronto,Fedex Logistics,-47.0,OnTime,Yes
+1527,146.0,2025-02-14,2025-01-25,432.95,Canada,Toronto,Dhl Express,-20.0,OnTime,Yes
+1528,152.0,2025-08-27,2025-09-10,82.28,Spain,Paris,Ups Worldwide,14.0,Late,Yes
+1529,184.0,2025-07-20,2025-08-07,442.69,France,Paris,Ups Worldwide,18.0,Late,No
+1530,128.0,2025-08-04,2025-08-01,423.77,Canada,Hamburg,Ups Worldwide,-3.0,OnTime,Yes
+1531,146.0,2025-12-06,2025-11-03,232.32,Not_A_Country,Montreal,Dhl Express,-33.0,OnTime,No
+1532,147.0,2025-03-09,2025-06-23,217.12,Usa,Montreal,Aramex International,106.0,Late,No
+1533,109.0,2025-05-17,2025-06-22,391.91,Usa,Hamburg,Dhl Express,36.0,Late,No
+1534,159.0,2025-05-28,2025-03-22,462.68,Spain,Munich,Kiwilytics Goods Shipping Llc.,-67.0,OnTime,Yes
+1535,178.0,2025-07-21,2025-07-27,182.09,Germany,Munich,Fedex Logistics,6.0,OnTime,Yes
+1536,185.0,2025-06-23,2025-09-17,190.52,Usa,Hamburg,Aramex International,86.0,Late,No
+1537,133.0,2025-03-28,2025-03-18,258.81741685144124,Spain,Munich,Kiwilytics Goods Shipping Llc.,-10.0,OnTime,Yes
+1538,128.0,2025-01-14,2025-04-01,276.6,Usa,Montreal,Ups Worldwide,77.0,Late,No
+1539,158.0,2025-01-10,2025-07-24,258.81741685144124,Usa,Paris,Dhl Express,195.0,Late,No
+1540,124.0,2025-08-18,2025-09-23,462.46,Spain,Munich,Dhl Express,36.0,Late,Yes
+1541,131.0,2025-02-07,2025-06-26,371.9,Usa,Hamburg,Dhl Express,139.0,Late,No
+1542,137.0,2025-03-16,2025-10-23,356.49,Usa,Munich,Kiwilytics Goods Shipping Llc.,221.0,Late,No
+1543,179.0,2025-05-21,2025-06-24,490.13,Usa,Munich,Fedex Logistics,34.0,Late,No
+1544,185.0,2025-01-14,2025-12-19,326.64,Germany,Montreal,Dhl Express,339.0,Late,Yes
+1545,184.0,2025-01-21,2025-04-27,258.81741685144124,Spain,Montreal,Kiwilytics Goods Shipping Llc.,96.0,Late,Yes
+1546,121.0,2025-03-21,2025-02-18,258.81741685144124,Spain,Hamburg,Fedex Logistics,-31.0,OnTime,Yes
+1547,150.0,2025-02-13,2025-12-11,233.2,Spain,Paris,Aramex International,301.0,Late,Yes
+1548,115.0,2025-03-17,2025-04-18,175.39,Canada,Montreal,Fedex Logistics,32.0,Late,Yes
+1549,141.0,2025-02-09,2025-02-25,179.88,France,Paris,Fedex Logistics,16.0,Late,No
+1550,177.0,2025-04-28,2025-08-19,195.08,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,113.0,Late,Yes
+1551,102.0,2025-05-01,2025-08-14,255.52,France,Hamburg,Kiwilytics Goods Shipping Llc.,105.0,Late,No
+1552,110.0,2025-06-17,2025-08-03,258.81741685144124,Canada,Montreal,Dhl Express,47.0,Late,Yes
+1553,114.0,2025-04-20,2025-03-21,311.52,Spain,Toronto,Dhl Express,-30.0,OnTime,Yes
+1554,132.0,2025-03-01,2025-10-05,482.9,Germany,Toronto,Ups Worldwide,218.0,Late,Yes
+1555,132.0,2025-10-12,2025-09-24,258.81741685144124,Not_A_Country,Montreal,Kiwilytics Goods Shipping Llc.,-18.0,OnTime,No
+1556,121.0,2025-06-20,2025-02-10,22.53,Spain,Vancouver,Fedex Logistics,-130.0,OnTime,Yes
+1557,155.0,2025-07-16,2025-01-24,258.81741685144124,Germany,Toronto,Fedex Logistics,-173.0,OnTime,Yes
+1558,148.0,2025-06-15,2025-09-13,379.59,Not_A_Country,Vancouver,Ups Worldwide,90.0,Late,No
+1559,118.0,2025-09-11,2025-08-03,323.19,Usa,Munich,Dhl Express,-39.0,OnTime,No
+1560,178.0,2025-11-10,2025-01-24,321.23,Canada,Paris,Aramex International,-290.0,OnTime,Yes
+1561,153.0,2025-07-21,2025-07-25,258.81741685144124,Spain,Paris,Ups Worldwide,4.0,OnTime,Yes
+1562,145.0,2025-10-14,2025-06-20,82.56,Not_A_Country,Paris,Dhl Express,-116.0,OnTime,No
+1563,151.0,2025-07-27,,328.19,Spain,Munich,Dhl Express,,Unknown,Yes
+1564,134.0,2025-08-13,2025-04-16,349.69,Not_A_Country,Munich,Aramex International,-119.0,OnTime,No
+1565,184.0,2025-05-06,2025-11-04,35.1,Usa,Hamburg,Dhl Express,182.0,Late,No
+1566,111.0,2025-07-04,2025-09-21,313.08,Usa,Vancouver,Fedex Logistics,79.0,Late,No
+1567,198.0,2025-02-13,2025-06-17,148.88,Usa,Paris,Ups Worldwide,124.0,Late,No
+1568,168.0,2025-09-15,2025-09-06,394.17,Canada,Munich,Dhl Express,-9.0,OnTime,Yes
+1569,197.0,2025-01-19,2025-01-07,237.99,Spain,Munich,Kiwilytics Goods Shipping Llc.,-12.0,OnTime,Yes
+1570,148.0,2025-01-10,2025-08-09,235.16,Usa,Toronto,Aramex International,211.0,Late,No
+1571,117.0,2025-11-28,2025-06-03,209.22,France,Hamburg,Ups Worldwide,-178.0,OnTime,No
+1572,169.0,2025-06-23,2025-10-04,248.51,Germany,Montreal,Aramex International,103.0,Late,Yes
+1573,120.0,2025-09-21,2025-05-06,371.8,Germany,Vancouver,Aramex International,-138.0,OnTime,Yes
+1574,109.0,2025-12-18,2025-05-11,401.28,Not_A_Country,Munich,Ups Worldwide,-221.0,OnTime,No
+1575,172.0,2025-10-22,2025-08-23,471.43,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,-60.0,OnTime,No
+1576,171.0,2025-04-09,2025-08-06,487.69,Spain,Montreal,Dhl Express,119.0,Late,Yes
+1577,134.0,2025-04-22,2025-02-26,279.24,Spain,Montreal,Dhl Express,-55.0,OnTime,Yes
+1578,159.0,2025-11-21,2025-03-21,258.81741685144124,Spain,Toronto,Fedex Logistics,-245.0,OnTime,Yes
+1579,192.0,2025-09-01,2025-06-24,146.93,Not_A_Country,Munich,Fedex Logistics,-69.0,OnTime,No
+1580,174.0,2025-06-01,2025-05-23,113.22,France,Paris,Ups Worldwide,-9.0,OnTime,No
+1581,198.0,2025-10-15,2025-06-23,494.36,Spain,Toronto,Fedex Logistics,-114.0,OnTime,Yes
+1582,129.0,2025-03-24,2025-03-27,430.87,France,Vancouver,Dhl Express,3.0,OnTime,No
+1583,181.0,2025-06-05,2025-03-25,213.22,Not_A_Country,Montreal,Aramex International,-72.0,OnTime,No
+1584,120.0,,2025-06-01,154.23,Spain,Vancouver,Fedex Logistics,,Unknown,Yes
+1585,193.0,2025-04-04,2025-04-17,200.92,Not_A_Country,Toronto,Fedex Logistics,13.0,Late,No
+1586,171.0,2025-03-19,2025-10-14,136.83,Germany,Paris,Dhl Express,209.0,Late,Yes
+1587,105.0,2025-08-27,2025-06-15,258.81741685144124,Usa,Montreal,Dhl Express,-73.0,OnTime,No
+1588,106.0,2025-02-03,,328.31,France,Vancouver,Ups Worldwide,,Unknown,No
+1589,149.0,2025-09-05,2025-08-13,487.47,Usa,Hamburg,Ups Worldwide,-23.0,OnTime,No
+1590,162.0,2025-03-07,2025-03-25,223.29,Canada,Munich,Ups Worldwide,18.0,Late,Yes
+1591,171.0,2025-03-27,2025-02-21,189.85,Canada,Montreal,Aramex International,-34.0,OnTime,Yes
+1592,158.0,2025-11-20,2025-08-04,337.09,Germany,Paris,Kiwilytics Goods Shipping Llc.,-108.0,OnTime,Yes
+1593,169.0,2025-03-25,,431.09,Usa,Paris,Aramex International,,Unknown,No
+1594,166.0,2025-02-20,2025-09-23,377.98,Usa,Munich,Ups Worldwide,215.0,Late,No
+1595,192.0,2025-04-17,,233.88,Spain,Hamburg,Dhl Express,,Unknown,Yes
+1596,119.0,2025-06-26,2025-03-03,230.63,Usa,Montreal,Dhl Express,-115.0,OnTime,No
+1597,107.0,2025-12-15,2025-08-02,424.84,France,Vancouver,Ups Worldwide,-135.0,OnTime,No
+1598,191.0,2025-11-28,2025-07-26,199.21,Canada,Hamburg,Ups Worldwide,-125.0,OnTime,Yes
+1599,138.0,2025-02-02,2025-02-13,74.95,Canada,Paris,Ups Worldwide,11.0,Late,Yes
+1600,182.0,,2025-02-21,148.83,Usa,Vancouver,Fedex Logistics,,Unknown,No
+1601,185.0,2025-08-27,2025-05-01,43.07,Not_A_Country,Munich,Ups Worldwide,-118.0,OnTime,No
+1602,126.0,2025-02-24,2025-05-26,321.58,Canada,Toronto,Aramex International,91.0,Late,Yes
+1603,100.0,2025-02-08,2025-08-26,114.33,France,Montreal,Fedex Logistics,199.0,Late,No
+1604,120.0,2025-07-22,2025-07-02,371.41,Unknown,Vancouver,Dhl Express,-20.0,OnTime,No
+1605,162.0,2025-07-12,,452.82,Germany,Montreal,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1606,169.0,,2025-07-18,221.08,Not_A_Country,Paris,Fedex Logistics,,Unknown,No
+1607,195.0,2025-03-27,2025-05-05,181.84,Canada,Munich,Ups Worldwide,39.0,Late,Yes
+1608,182.0,,2025-06-06,335.11,France,Munich,Aramex International,,Unknown,No
+1609,195.0,2025-12-17,2025-06-19,258.81741685144124,Not_A_Country,Paris,Fedex Logistics,-181.0,OnTime,No
+1610,147.0,2025-08-19,2025-07-24,450.82,Spain,Munich,Fedex Logistics,-26.0,OnTime,Yes
+1611,178.0,,2025-10-26,416.36,Spain,Hamburg,Ups Worldwide,,Unknown,Yes
+1612,178.0,2025-08-15,2025-05-14,258.81741685144124,Spain,Toronto,Ups Worldwide,-93.0,OnTime,Yes
+1613,127.0,2025-08-17,2025-08-13,41.46,Germany,Vancouver,Dhl Express,-4.0,OnTime,Yes
+1614,147.0,2025-11-02,2025-04-10,356.62,Canada,Toronto,Ups Worldwide,-206.0,OnTime,Yes
+1615,169.0,2025-01-17,2025-02-18,258.81741685144124,France,Toronto,Aramex International,32.0,Late,No
+1616,112.0,2025-06-03,2025-07-13,239.77,Canada,Montreal,Kiwilytics Goods Shipping Llc.,40.0,Late,Yes
+1617,122.0,2025-05-18,2025-02-05,347.52,Not_A_Country,Vancouver,Dhl Express,-102.0,OnTime,No
+1618,113.0,2025-03-16,2025-02-27,196.67,France,Toronto,Dhl Express,-17.0,OnTime,No
+1619,165.0,2025-06-23,2025-06-22,253.43,Usa,Toronto,Ups Worldwide,-1.0,OnTime,No
+1620,102.0,2025-07-26,2025-12-26,140.85,Spain,Vancouver,Ups Worldwide,153.0,Late,Yes
+1621,114.0,2025-03-08,,65.29,Not_A_Country,Vancouver,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1622,179.0,2025-04-26,2025-09-17,258.81741685144124,Germany,Hamburg,Dhl Express,144.0,Late,Yes
+1623,120.0,2025-01-27,2025-02-09,301.0,Canada,Montreal,Fedex Logistics,13.0,Late,Yes
+1624,174.0,2025-07-15,2025-05-20,440.86,France,Toronto,Fedex Logistics,-56.0,OnTime,No
+1625,166.0,2025-11-08,2025-04-21,322.22,Usa,Toronto,Ups Worldwide,-201.0,OnTime,No
+1626,142.0,2025-10-19,2025-06-19,184.6,Not_A_Country,Vancouver,Aramex International,-122.0,OnTime,No
+1627,138.0,2025-02-23,2025-11-10,388.62,Germany,Toronto,Ups Worldwide,260.0,Late,Yes
+1628,187.0,2025-01-28,2025-09-24,204.56,Canada,Vancouver,Aramex International,239.0,Late,Yes
+1629,121.0,2025-12-04,2025-03-09,257.8,Germany,Montreal,Kiwilytics Goods Shipping Llc.,-270.0,OnTime,Yes
+1630,148.0,2025-06-20,2025-03-09,217.6,Spain,Montreal,Aramex International,-103.0,OnTime,Yes
+1631,157.0,2025-08-04,2025-02-25,301.28,Spain,Toronto,Kiwilytics Goods Shipping Llc.,-160.0,OnTime,Yes
+1632,100.0,2025-05-02,2025-10-01,89.22,Usa,Vancouver,Aramex International,152.0,Late,No
+1633,141.0,2025-02-11,2025-05-01,150.41,Not_A_Country,Hamburg,Dhl Express,79.0,Late,No
+1634,128.0,2025-02-18,,283.25,Usa,Montreal,Fedex Logistics,,Unknown,No
+1635,171.0,,2025-02-09,307.44,Not_A_Country,Montreal,Dhl Express,,Unknown,No
+1636,191.0,2025-12-05,2025-06-24,125.36,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,-164.0,OnTime,No
+1637,117.0,,2025-05-03,100.09,Spain,Vancouver,Ups Worldwide,,Unknown,Yes
+1638,173.0,2025-09-16,2025-11-18,240.54,Usa,Toronto,Ups Worldwide,63.0,Late,No
+1639,187.0,2025-06-19,2025-01-26,92.73,France,Paris,Dhl Express,-144.0,OnTime,No
+1640,187.0,2025-04-24,2025-10-24,461.67,France,Paris,Dhl Express,183.0,Late,No
+1641,140.0,2025-02-22,2025-09-06,441.66,Not_A_Country,Vancouver,Dhl Express,196.0,Late,No
+1642,145.0,2025-04-20,2025-01-28,341.33,Usa,Toronto,Fedex Logistics,-82.0,OnTime,No
+1643,110.0,2025-07-20,2025-11-09,353.52,France,Montreal,Dhl Express,112.0,Late,No
+1644,113.0,2025-11-12,2025-12-02,498.55,Not_A_Country,Vancouver,Fedex Logistics,20.0,Late,No
+1645,180.0,2025-03-19,2025-11-20,124.71,Not_A_Country,Montreal,Ups Worldwide,246.0,Late,No
+1646,190.0,2025-12-14,2025-01-16,398.51,Canada,Montreal,Aramex International,-332.0,OnTime,Yes
+1647,181.0,2025-08-08,2025-01-19,152.9,Spain,Toronto,Aramex International,-201.0,OnTime,Yes
+1648,111.0,2025-09-02,2025-02-15,172.6,Germany,Montreal,Aramex International,-199.0,OnTime,Yes
+1649,104.0,2025-06-22,2025-06-03,258.81741685144124,Unknown,Hamburg,Kiwilytics Goods Shipping Llc.,-19.0,OnTime,No
+1650,115.0,2025-01-05,2025-07-15,321.48,Usa,Montreal,Aramex International,191.0,Late,No
+1651,152.0,2025-10-01,2025-06-26,226.2,Germany,Paris,Kiwilytics Goods Shipping Llc.,-97.0,OnTime,Yes
+1652,136.0,2025-11-12,2025-09-14,163.33,France,Munich,Fedex Logistics,-59.0,OnTime,No
+1653,166.0,2025-12-22,2025-12-10,85.21,Spain,Montreal,Aramex International,-12.0,OnTime,Yes
+1654,141.0,2025-08-03,2025-03-04,448.75,Unknown,Paris,Fedex Logistics,-152.0,OnTime,No
+1655,156.0,2025-04-01,2025-08-27,474.21,Usa,Toronto,Ups Worldwide,148.0,Late,No
+1656,191.0,2025-06-03,2025-08-16,66.2,France,Paris,Dhl Express,74.0,Late,No
+1657,142.0,2025-07-19,2025-04-09,13.09,Not_A_Country,Toronto,Kiwilytics Goods Shipping Llc.,-101.0,OnTime,No
+1658,152.0,2025-10-19,2025-05-23,95.53,France,Paris,Aramex International,-149.0,OnTime,No
+1659,105.0,2025-12-14,2025-04-04,449.23,France,Montreal,Aramex International,-254.0,OnTime,No
+1660,108.0,2025-05-02,2025-06-14,394.1,Canada,Paris,Kiwilytics Goods Shipping Llc.,43.0,Late,Yes
+1661,110.0,2025-05-26,2025-11-19,435.44,Usa,Hamburg,Fedex Logistics,177.0,Late,No
+1662,107.0,2025-10-02,2025-07-05,402.91,France,Paris,Dhl Express,-89.0,OnTime,No
+1663,143.0,2025-11-06,2025-02-17,258.81741685144124,France,Montreal,Fedex Logistics,-262.0,OnTime,No
+1664,112.0,2025-02-05,2025-03-27,152.5,Canada,Montreal,Aramex International,50.0,Late,Yes
+1665,186.0,2025-01-25,2025-06-10,186.37,Usa,Hamburg,Ups Worldwide,136.0,Late,No
+1666,119.0,2025-08-25,2025-03-25,139.23,Unknown,Hamburg,Ups Worldwide,-153.0,OnTime,No
+1667,138.0,2025-08-28,2025-10-24,142.39,Canada,Vancouver,Aramex International,57.0,Late,Yes
+1668,138.0,2025-11-25,2025-01-05,463.36,Spain,Vancouver,Dhl Express,-324.0,OnTime,Yes
+1669,175.0,2025-02-07,,276.28,France,Montreal,Ups Worldwide,,Unknown,No
+1670,159.0,2025-05-25,2025-06-20,393.34,Germany,Paris,Kiwilytics Goods Shipping Llc.,26.0,Late,Yes
+1671,119.0,2025-08-27,2025-10-13,193.9,Usa,Hamburg,Fedex Logistics,47.0,Late,No
+1672,178.0,2025-08-21,2025-01-26,177.19,Usa,Toronto,Fedex Logistics,-207.0,OnTime,No
+1673,172.0,2025-07-02,2025-05-01,411.41,Germany,Munich,Kiwilytics Goods Shipping Llc.,-62.0,OnTime,Yes
+1674,182.0,2025-06-03,,150.81,Spain,Montreal,Dhl Express,,Unknown,Yes
+1675,151.0,2025-10-20,2025-07-03,272.16,Usa,Toronto,Dhl Express,-109.0,OnTime,No
+1676,113.0,2025-11-27,2025-10-26,38.66,France,Toronto,Kiwilytics Goods Shipping Llc.,-32.0,OnTime,No
+1677,120.0,2025-05-05,2025-05-21,207.8,Canada,Montreal,Ups Worldwide,16.0,Late,Yes
+1678,133.0,2025-07-10,2025-10-03,428.0,France,Hamburg,Ups Worldwide,85.0,Late,No
+1679,180.0,2025-05-17,2025-06-27,136.67,Spain,Vancouver,Dhl Express,41.0,Late,Yes
+1680,140.0,2025-06-26,2025-07-09,152.42,Usa,Hamburg,Fedex Logistics,13.0,Late,No
+1681,194.0,2025-03-04,2025-05-13,123.7,Canada,Munich,Ups Worldwide,70.0,Late,Yes
+1682,167.0,2025-10-12,2025-06-05,52.95,France,Vancouver,Kiwilytics Goods Shipping Llc.,-129.0,OnTime,No
+1683,167.0,2025-12-04,2025-08-14,434.95,Spain,Vancouver,Kiwilytics Goods Shipping Llc.,-112.0,OnTime,Yes
+1684,109.0,2025-07-06,2025-05-25,155.54,Usa,Toronto,Fedex Logistics,-42.0,OnTime,No
+1685,114.0,2025-11-13,2025-03-10,317.06,Usa,Hamburg,Aramex International,-248.0,OnTime,No
+1686,153.0,2025-11-27,,376.85,Germany,Hamburg,Dhl Express,,Unknown,Yes
+1687,176.0,2025-09-08,2025-11-01,339.45,Canada,Munich,Dhl Express,54.0,Late,Yes
+1688,100.0,,2025-07-16,112.54,Spain,Paris,Fedex Logistics,,Unknown,Yes
+1689,106.0,2025-08-27,2025-04-27,307.0,Usa,Paris,Aramex International,-122.0,OnTime,No
+1690,152.0,2025-06-12,2025-05-20,237.1,Germany,Toronto,Fedex Logistics,-23.0,OnTime,Yes
+1691,155.0,2025-01-06,2025-08-26,141.91,Not_A_Country,Munich,Kiwilytics Goods Shipping Llc.,232.0,Late,No
+1692,170.0,2025-10-05,2025-09-14,384.43,France,Toronto,Aramex International,-21.0,OnTime,No
+1693,113.0,2025-10-15,2025-09-20,60.47,Not_A_Country,Vancouver,Ups Worldwide,-25.0,OnTime,No
+1694,133.0,2025-01-24,2025-10-03,251.64,France,Paris,Ups Worldwide,252.0,Late,No
+1695,131.0,2025-04-11,2025-03-07,80.4,Usa,Paris,Ups Worldwide,-35.0,OnTime,No
+1696,108.0,2025-12-01,2025-04-25,422.39,Germany,Vancouver,Dhl Express,-220.0,OnTime,Yes
+1697,121.0,2025-01-09,2025-02-21,388.88,Spain,Vancouver,Kiwilytics Goods Shipping Llc.,43.0,Late,Yes
+1698,161.0,2025-01-03,2025-09-04,72.32,France,Vancouver,Ups Worldwide,244.0,Late,No
+1699,199.0,2025-08-08,,217.28,Spain,Toronto,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1700,195.0,2025-07-13,2025-11-13,205.4,Germany,Vancouver,Aramex International,123.0,Late,Yes
+1701,127.0,2025-04-10,2025-09-15,269.97,Canada,Vancouver,Ups Worldwide,158.0,Late,Yes
+1702,143.0,,2025-11-12,258.81741685144124,Canada,Montreal,Aramex International,,Unknown,Yes
+1703,147.0,2025-02-21,2025-06-09,338.5,Usa,Vancouver,Fedex Logistics,108.0,Late,No
+1704,158.0,2025-03-19,,291.31,Not_A_Country,Vancouver,Aramex International,,Unknown,No
+1705,193.0,2025-04-01,2025-07-19,22.31,France,Vancouver,Ups Worldwide,109.0,Late,No
+1706,191.0,2025-11-02,2025-04-02,497.85,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,-214.0,OnTime,Yes
+1707,112.0,2025-10-28,2025-04-12,14.41,Germany,Munich,Kiwilytics Goods Shipping Llc.,-199.0,OnTime,Yes
+1708,127.0,2025-10-26,2025-05-15,413.22,Germany,Munich,Ups Worldwide,-164.0,OnTime,Yes
+1709,118.0,2025-07-09,2025-04-21,413.86,Canada,Paris,Kiwilytics Goods Shipping Llc.,-79.0,OnTime,Yes
+1710,150.0,2025-12-17,2025-07-10,432.78,Not_A_Country,Toronto,Kiwilytics Goods Shipping Llc.,-160.0,OnTime,No
+1711,158.0,2025-06-01,2025-05-15,263.28,Germany,Hamburg,Fedex Logistics,-17.0,OnTime,Yes
+1712,194.0,2025-09-25,2025-02-03,288.77,Germany,Vancouver,Dhl Express,-234.0,OnTime,Yes
+1713,164.0,2025-12-16,2025-04-19,381.95,Canada,Toronto,Ups Worldwide,-241.0,OnTime,Yes
+1714,140.0,2025-04-20,2025-06-01,258.81741685144124,Canada,Munich,Dhl Express,42.0,Late,Yes
+1715,132.0,2025-02-06,2025-08-24,139.41,Spain,Toronto,Ups Worldwide,199.0,Late,Yes
+1716,115.0,2025-02-13,2025-02-23,174.06,France,Paris,Ups Worldwide,10.0,Late,No
+1717,153.0,2025-09-20,2025-07-09,190.11,Spain,Toronto,Aramex International,-73.0,OnTime,Yes
+1718,120.0,,2025-12-28,389.48,Spain,Paris,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1719,110.0,2025-11-11,2025-07-12,258.81741685144124,Not_A_Country,Hamburg,Dhl Express,-122.0,OnTime,No
+1720,169.0,2025-12-04,2025-09-15,303.31,Usa,Toronto,Fedex Logistics,-80.0,OnTime,No
+1721,174.0,,2025-01-25,246.49,France,Montreal,Ups Worldwide,,Unknown,No
+1722,128.0,2025-12-22,2025-08-01,258.81741685144124,Spain,Montreal,Kiwilytics Goods Shipping Llc.,-143.0,OnTime,Yes
+1723,105.0,2025-10-10,2025-06-19,393.5,Spain,Toronto,Aramex International,-113.0,OnTime,Yes
+1724,134.0,2025-10-24,2025-01-23,59.54,Canada,Toronto,Fedex Logistics,-274.0,OnTime,Yes
+1725,136.0,2025-10-19,2025-11-15,225.22,France,Hamburg,Kiwilytics Goods Shipping Llc.,27.0,Late,No
+1726,196.0,2025-01-19,2025-07-23,188.07,Germany,Vancouver,Kiwilytics Goods Shipping Llc.,185.0,Late,Yes
+1727,100.0,2025-11-28,2025-05-17,296.6,Spain,Vancouver,Dhl Express,-195.0,OnTime,Yes
+1728,137.0,,2025-11-17,122.07,Spain,Paris,Ups Worldwide,,Unknown,Yes
+1729,194.0,2025-08-02,2025-06-25,258.81741685144124,Unknown,Hamburg,Ups Worldwide,-38.0,OnTime,No
+1730,169.0,2025-08-17,2025-03-12,467.7,Usa,Montreal,Kiwilytics Goods Shipping Llc.,-158.0,OnTime,No
+1731,184.0,2025-03-13,2025-05-21,253.92,Canada,Munich,Dhl Express,69.0,Late,Yes
+1732,174.0,2025-04-04,2025-09-18,258.81741685144124,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,167.0,Late,Yes
+1733,133.0,2025-09-14,2025-04-28,266.21,Not_A_Country,Hamburg,Aramex International,-139.0,OnTime,No
+1734,115.0,2025-03-13,2025-07-18,166.99,Spain,Munich,Dhl Express,127.0,Late,Yes
+1735,144.0,2025-05-27,2025-09-24,96.11,Usa,Vancouver,Ups Worldwide,120.0,Late,No
+1736,116.0,2025-02-01,2025-11-25,182.32,France,Vancouver,Dhl Express,297.0,Late,No
+1737,189.0,2025-06-10,2025-03-15,75.63,Not_A_Country,Toronto,Aramex International,-87.0,OnTime,No
+1738,176.0,2025-01-24,2025-08-23,130.83,France,Munich,Aramex International,211.0,Late,No
+1739,155.0,2025-08-01,2025-01-06,168.43,Spain,Hamburg,Dhl Express,-207.0,OnTime,Yes
+1740,148.0,2025-09-01,2025-06-03,460.44,Canada,Montreal,Kiwilytics Goods Shipping Llc.,-90.0,OnTime,Yes
+1741,176.0,2025-06-20,2025-08-16,212.53,France,Hamburg,Fedex Logistics,57.0,Late,No
+1742,136.0,2025-03-02,2025-02-23,278.08,Canada,Munich,Fedex Logistics,-7.0,OnTime,Yes
+1743,168.0,2025-01-27,2025-09-22,270.23,Usa,Montreal,Ups Worldwide,238.0,Late,No
+1744,188.0,2025-12-09,2025-11-21,258.81741685144124,Canada,Montreal,Dhl Express,-18.0,OnTime,Yes
+1745,194.0,,2025-09-17,65.56,Not_A_Country,Montreal,Fedex Logistics,,Unknown,No
+1746,175.0,2025-10-28,2025-10-23,456.75,Germany,Toronto,Ups Worldwide,-5.0,OnTime,Yes
+1747,170.0,2025-02-26,2025-11-12,316.94,Usa,Munich,Fedex Logistics,259.0,Late,No
+1748,158.0,2025-11-01,2025-10-11,353.8,Not_A_Country,Vancouver,Ups Worldwide,-21.0,OnTime,No
+1749,128.0,2025-02-13,2025-12-07,341.84,Not_A_Country,Montreal,Dhl Express,297.0,Late,No
+1750,147.0,2025-07-23,2025-10-27,26.15,Usa,Toronto,Ups Worldwide,96.0,Late,No
+1751,130.0,2025-05-07,2025-06-05,76.69,Germany,Vancouver,Dhl Express,29.0,Late,Yes
+1752,189.0,2025-06-25,2025-01-07,184.15,France,Paris,Kiwilytics Goods Shipping Llc.,-169.0,OnTime,No
+1753,175.0,,2025-02-16,187.35,France,Munich,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1754,147.0,2025-08-14,2025-12-08,258.81741685144124,France,Montreal,Ups Worldwide,116.0,Late,No
+1755,146.0,2025-05-12,2025-07-08,455.16,Canada,Montreal,Dhl Express,57.0,Late,Yes
+1756,152.0,2025-07-02,2025-11-22,69.93,Germany,Vancouver,Dhl Express,143.0,Late,Yes
+1757,178.0,2025-08-26,2025-04-14,137.05,Unknown,Paris,Fedex Logistics,-134.0,OnTime,No
+1758,111.0,,2025-03-19,289.46,Not_A_Country,Paris,Dhl Express,,Unknown,No
+1759,146.0,2025-05-06,2025-05-16,486.6,Canada,Munich,Fedex Logistics,10.0,Late,Yes
+1760,187.0,2025-08-17,2025-10-10,458.54,Germany,Paris,Fedex Logistics,54.0,Late,Yes
+1761,127.0,2025-04-17,2025-07-25,182.79,France,Toronto,Fedex Logistics,99.0,Late,No
+1762,114.0,2025-05-03,2025-03-23,309.9,Not_A_Country,Montreal,Fedex Logistics,-41.0,OnTime,No
+1763,155.0,2025-06-12,,154.53,Canada,Toronto,Ups Worldwide,,Unknown,Yes
+1764,100.0,2025-05-03,2025-05-12,189.05,Canada,Paris,Ups Worldwide,9.0,Late,Yes
+1765,155.0,2025-11-05,2025-11-02,245.2,Spain,Toronto,Fedex Logistics,-3.0,OnTime,Yes
+1766,152.0,2025-02-09,2025-11-22,67.92,Not_A_Country,Hamburg,Kiwilytics Goods Shipping Llc.,286.0,Late,No
+1767,110.0,2025-11-24,2025-08-21,331.47,Canada,Munich,Kiwilytics Goods Shipping Llc.,-95.0,OnTime,Yes
+1768,151.0,2025-12-28,2025-03-12,194.61,Usa,Hamburg,Ups Worldwide,-291.0,OnTime,No
+1769,116.0,2025-08-12,2025-11-27,258.81741685144124,France,Paris,Aramex International,107.0,Late,No
+1770,192.0,2025-12-22,2025-12-16,117.61,France,Hamburg,Fedex Logistics,-6.0,OnTime,No
+1771,166.0,2025-03-04,2025-09-04,340.12,Not_A_Country,Munich,Dhl Express,184.0,Late,No
+1772,188.0,2025-02-21,2025-02-27,86.95,Not_A_Country,Montreal,Fedex Logistics,6.0,OnTime,No
+1773,153.0,2025-10-01,2025-04-10,173.27,Spain,Vancouver,Fedex Logistics,-174.0,OnTime,Yes
+1774,141.0,2025-07-05,2025-09-10,75.69,France,Paris,Dhl Express,67.0,Late,No
+1775,174.0,2025-09-06,2025-09-01,147.81,France,Vancouver,Ups Worldwide,-5.0,OnTime,No
+1776,138.0,2025-02-10,2025-05-08,147.34,Spain,Hamburg,Dhl Express,87.0,Late,Yes
+1777,128.0,,2025-11-21,151.63,Spain,Munich,Fedex Logistics,,Unknown,Yes
+1778,179.0,2025-09-27,2025-07-03,225.61,Not_A_Country,Vancouver,Dhl Express,-86.0,OnTime,No
+1779,109.0,2025-01-11,2025-11-28,446.37,France,Paris,Fedex Logistics,321.0,Late,No
+1780,136.0,2025-05-13,2025-01-20,490.61,Spain,Munich,Fedex Logistics,-113.0,OnTime,Yes
+1781,190.0,2025-11-25,2025-01-06,159.76,Germany,Paris,Dhl Express,-323.0,OnTime,Yes
+1782,134.0,2025-04-22,2025-04-26,266.38,France,Hamburg,Dhl Express,4.0,OnTime,No
+1783,111.0,2025-01-08,2025-07-24,305.19,Canada,Vancouver,Kiwilytics Goods Shipping Llc.,197.0,Late,Yes
+1784,136.0,2025-03-23,2025-10-16,443.85,France,Toronto,Fedex Logistics,207.0,Late,No
+1785,155.0,2025-10-06,2025-08-12,258.81741685144124,France,Toronto,Aramex International,-55.0,OnTime,No
+1786,160.0,2025-03-26,2025-01-27,274.43,France,Hamburg,Dhl Express,-58.0,OnTime,No
+1787,192.0,2025-01-10,2025-01-02,269.71,Usa,Vancouver,Fedex Logistics,-8.0,OnTime,No
+1788,137.0,2025-10-21,2025-09-08,476.59,Usa,Montreal,Kiwilytics Goods Shipping Llc.,-43.0,OnTime,No
+1789,195.0,2025-06-21,2025-05-14,350.17,Usa,Vancouver,Ups Worldwide,-38.0,OnTime,No
+1790,141.0,2025-11-03,2025-03-17,420.02,Not_A_Country,Vancouver,Fedex Logistics,-231.0,OnTime,No
+1791,164.0,2025-04-28,2025-05-11,292.02,Canada,Hamburg,Ups Worldwide,13.0,Late,Yes
+1792,133.0,2025-08-15,2025-09-08,151.66,France,Munich,Dhl Express,24.0,Late,No
+1793,130.0,2025-08-27,2025-01-01,217.89,France,Toronto,Aramex International,-238.0,OnTime,No
+1794,168.0,2025-05-06,2025-04-09,311.7,Usa,Munich,Aramex International,-27.0,OnTime,No
+1795,178.0,2025-03-21,2025-07-20,258.81741685144124,Not_A_Country,Vancouver,Dhl Express,121.0,Late,No
+1796,184.0,,2025-07-16,31.04,Usa,Toronto,Aramex International,,Unknown,No
+1797,196.0,2025-08-12,2025-11-03,225.63,Spain,Munich,Aramex International,83.0,Late,Yes
+1798,116.0,2025-08-16,2025-12-17,61.97,Canada,Munich,Kiwilytics Goods Shipping Llc.,123.0,Late,Yes
+1799,161.0,2025-08-04,2025-04-04,182.0,Germany,Munich,Kiwilytics Goods Shipping Llc.,-122.0,OnTime,Yes
+1800,191.0,2025-11-04,2025-01-05,207.33,Usa,Toronto,Aramex International,-303.0,OnTime,No
+1801,147.0,2025-10-06,2025-01-18,312.54,Usa,Vancouver,Aramex International,-261.0,OnTime,No
+1802,105.0,2025-11-28,2025-11-09,404.77,Usa,Paris,Dhl Express,-19.0,OnTime,No
+1803,142.0,2025-09-28,2025-05-18,440.13,Usa,Hamburg,Aramex International,-133.0,OnTime,No
+1804,184.0,2025-11-06,2025-09-27,467.88,Germany,Hamburg,Ups Worldwide,-40.0,OnTime,Yes
+1805,108.0,2025-07-14,2025-04-08,396.45,Canada,Paris,Ups Worldwide,-97.0,OnTime,Yes
+1806,134.0,2025-10-18,2025-04-25,83.72,Usa,Toronto,Kiwilytics Goods Shipping Llc.,-176.0,OnTime,No
+1807,183.0,2025-11-22,2025-04-05,43.41,Usa,Paris,Kiwilytics Goods Shipping Llc.,-231.0,OnTime,No
+1808,147.0,2025-08-10,2025-10-10,400.6,Not_A_Country,Toronto,Ups Worldwide,61.0,Late,No
+1809,137.0,2025-02-04,2025-10-01,42.32,Germany,Vancouver,Aramex International,239.0,Late,Yes
+1810,193.0,2025-11-13,2025-05-19,123.89,France,Toronto,Fedex Logistics,-178.0,OnTime,No
+1811,116.0,2025-12-13,2025-07-14,101.5,Spain,Munich,Kiwilytics Goods Shipping Llc.,-152.0,OnTime,Yes
+1812,136.0,2025-08-15,2025-10-20,336.0,Not_A_Country,Paris,Aramex International,66.0,Late,No
+1813,181.0,2025-08-07,2025-10-24,27.13,Spain,Toronto,Aramex International,78.0,Late,Yes
+1814,198.0,2025-09-17,2025-05-24,66.87,Not_A_Country,Toronto,Dhl Express,-116.0,OnTime,No
+1815,194.0,2025-09-16,2025-09-02,451.88,Germany,Paris,Dhl Express,-14.0,OnTime,Yes
+1816,132.0,2025-12-07,2025-12-02,77.8,Not_A_Country,Munich,Ups Worldwide,-5.0,OnTime,No
+1817,177.0,2025-12-28,2025-04-10,333.75,France,Paris,Fedex Logistics,-262.0,OnTime,No
+1818,175.0,2025-12-12,2025-12-09,434.24,Canada,Munich,Dhl Express,-3.0,OnTime,Yes
+1819,180.0,2025-01-16,2025-05-23,364.71,Not_A_Country,Paris,Fedex Logistics,127.0,Late,No
+1820,133.0,2025-12-08,2025-12-25,355.6,Canada,Hamburg,Dhl Express,17.0,Late,Yes
+1821,191.0,2025-02-04,2025-10-13,258.81741685144124,Unknown,Vancouver,Aramex International,251.0,Late,No
+1822,176.0,2025-09-18,2025-04-01,340.22,Usa,Montreal,Fedex Logistics,-170.0,OnTime,No
+1823,174.0,2025-04-07,2025-11-09,239.32,Germany,Montreal,Fedex Logistics,216.0,Late,Yes
+1824,137.0,2025-02-27,2025-02-26,258.81741685144124,Germany,Munich,Ups Worldwide,-1.0,OnTime,Yes
+1825,129.0,2025-01-05,2025-01-27,73.39,Canada,Toronto,Aramex International,22.0,Late,Yes
+1826,166.0,2025-10-13,2025-08-22,128.77,Spain,Hamburg,Aramex International,-52.0,OnTime,Yes
+1827,149.0,2025-09-04,2025-12-08,335.73,Germany,Vancouver,Aramex International,95.0,Late,Yes
+1828,179.0,,2025-04-16,360.44,Not_A_Country,Vancouver,Dhl Express,,Unknown,No
+1829,114.0,2025-09-21,2025-02-28,410.59,Canada,Munich,Kiwilytics Goods Shipping Llc.,-205.0,OnTime,Yes
+1830,141.0,2025-07-15,2025-12-21,346.13,Usa,Munich,Fedex Logistics,159.0,Late,No
+1831,137.0,2025-09-12,2025-03-04,92.54,Usa,Munich,Kiwilytics Goods Shipping Llc.,-192.0,OnTime,No
+1832,152.0,,,166.39,Usa,Paris,Fedex Logistics,,Unknown,No
+1833,145.0,2025-07-12,2025-07-20,356.64,Not_A_Country,Vancouver,Dhl Express,8.0,Late,No
+1834,187.0,2025-11-23,2025-12-18,246.44,Germany,Paris,Dhl Express,25.0,Late,Yes
+1835,182.0,,2025-01-05,163.36,Not_A_Country,Vancouver,Dhl Express,,Unknown,No
+1836,175.0,2025-12-16,2025-02-06,447.12,Germany,Toronto,Aramex International,-313.0,OnTime,Yes
+1837,182.0,2025-08-12,,472.29,France,Paris,Fedex Logistics,,Unknown,No
+1838,178.0,2025-08-08,2025-03-04,289.8,Spain,Paris,Kiwilytics Goods Shipping Llc.,-157.0,OnTime,Yes
+1839,193.0,2025-05-19,2025-08-17,441.51,Germany,Munich,Ups Worldwide,90.0,Late,Yes
+1840,115.0,2025-07-05,2025-06-24,258.81741685144124,France,Toronto,Ups Worldwide,-11.0,OnTime,No
+1841,144.0,2025-08-24,2025-05-11,98.08,France,Munich,Kiwilytics Goods Shipping Llc.,-105.0,OnTime,No
+1842,192.0,2025-03-12,2025-06-13,258.81741685144124,France,Montreal,Aramex International,93.0,Late,No
+1843,185.0,2025-07-07,2025-03-22,379.64,Not_A_Country,Hamburg,Ups Worldwide,-107.0,OnTime,No
+1844,182.0,,2025-07-23,141.9,Usa,Hamburg,Ups Worldwide,,Unknown,No
+1845,135.0,2025-12-19,2025-07-20,437.87,Canada,Toronto,Aramex International,-152.0,OnTime,Yes
+1846,169.0,2025-07-15,2025-10-21,25.57,France,Vancouver,Kiwilytics Goods Shipping Llc.,98.0,Late,No
+1847,172.0,2025-09-18,2025-12-24,371.24,Not_A_Country,Munich,Ups Worldwide,97.0,Late,No
+1848,151.0,2025-07-24,2025-01-23,335.73,Spain,Hamburg,Aramex International,-182.0,OnTime,Yes
+1849,163.0,2025-06-13,2025-07-10,173.13,Canada,Vancouver,Fedex Logistics,27.0,Late,Yes
+1850,119.0,2025-05-17,2025-09-07,113.48,Usa,Hamburg,Aramex International,113.0,Late,No
+1851,179.0,2025-06-04,2025-05-14,268.57,Usa,Vancouver,Dhl Express,-21.0,OnTime,No
+1852,162.0,2025-08-14,2025-08-20,172.18,Not_A_Country,Munich,Aramex International,6.0,OnTime,No
+1853,134.0,2025-09-01,2025-11-13,55.57,France,Hamburg,Kiwilytics Goods Shipping Llc.,73.0,Late,No
+1854,127.0,2025-07-23,2025-07-04,228.56,Germany,Toronto,Aramex International,-19.0,OnTime,Yes
+1855,146.0,2025-05-11,2025-07-01,446.23,Germany,Hamburg,Kiwilytics Goods Shipping Llc.,51.0,Late,Yes
+1856,131.0,2025-03-27,2025-05-28,258.81741685144124,France,Montreal,Fedex Logistics,62.0,Late,No
+1857,114.0,2025-01-12,2025-07-21,386.2,Spain,Toronto,Aramex International,190.0,Late,Yes
+1858,188.0,2025-08-17,2025-04-04,258.81741685144124,Spain,Vancouver,Aramex International,-135.0,OnTime,Yes
+1859,103.0,2025-09-10,2025-03-26,275.92,Usa,Paris,Dhl Express,-168.0,OnTime,No
+1860,197.0,2025-06-11,2025-09-09,258.81741685144124,Spain,Hamburg,Aramex International,90.0,Late,Yes
+1861,196.0,2025-10-08,2025-08-13,96.8,France,Hamburg,Fedex Logistics,-56.0,OnTime,No
+1862,126.0,2025-04-03,2025-08-10,350.43,Spain,Hamburg,Aramex International,129.0,Late,Yes
+1863,160.0,2025-01-23,2025-05-19,97.55,France,Paris,Dhl Express,116.0,Late,No
+1864,100.0,2025-12-07,2025-09-21,317.88,France,Vancouver,Kiwilytics Goods Shipping Llc.,-77.0,OnTime,No
+1865,196.0,2025-03-14,2025-04-15,16.75,Usa,Montreal,Fedex Logistics,32.0,Late,No
+1866,120.0,2025-07-14,2025-07-20,236.77,Usa,Munich,Aramex International,6.0,OnTime,No
+1867,146.0,2025-04-23,2025-05-26,104.69,Canada,Toronto,Fedex Logistics,33.0,Late,Yes
+1868,145.0,2025-01-27,2025-01-16,465.73,Canada,Toronto,Fedex Logistics,-11.0,OnTime,Yes
+1869,177.0,2025-05-15,2025-05-11,190.31,Not_A_Country,Paris,Fedex Logistics,-4.0,OnTime,No
+1870,111.0,2025-01-07,2025-04-18,258.81741685144124,Canada,Montreal,Dhl Express,101.0,Late,Yes
+1871,181.0,2025-01-27,,307.99,Germany,Montreal,Fedex Logistics,,Unknown,Yes
+1872,132.0,2025-08-20,2025-02-25,57.9,Germany,Toronto,Aramex International,-176.0,OnTime,Yes
+1873,179.0,2025-05-17,2025-06-26,128.11,Canada,Vancouver,Ups Worldwide,40.0,Late,Yes
+1874,163.0,2025-02-16,2025-10-12,180.01,Canada,Paris,Fedex Logistics,238.0,Late,Yes
+1875,191.0,2025-10-26,2025-05-02,397.79,Germany,Toronto,Dhl Express,-177.0,OnTime,Yes
+1876,164.0,2025-05-11,2025-10-20,294.56,Canada,Vancouver,Aramex International,162.0,Late,Yes
+1877,109.0,2025-04-12,2025-03-27,198.62,Canada,Montreal,Aramex International,-16.0,OnTime,Yes
+1878,129.0,2025-08-16,2025-11-06,256.31,Canada,Hamburg,Kiwilytics Goods Shipping Llc.,82.0,Late,Yes
+1879,151.0,2025-07-22,2025-01-14,258.04,Spain,Munich,Fedex Logistics,-189.0,OnTime,Yes
+1880,186.0,2025-07-20,2025-05-05,176.27,Usa,Munich,Aramex International,-76.0,OnTime,No
+1881,180.0,2025-09-02,2025-11-02,290.61,Not_A_Country,Paris,Aramex International,61.0,Late,No
+1882,157.0,2025-11-28,2025-03-24,230.38,Germany,Vancouver,Fedex Logistics,-249.0,OnTime,Yes
+1883,187.0,2025-03-27,2025-03-25,409.12,Canada,Toronto,Dhl Express,-2.0,OnTime,Yes
+1884,186.0,2025-12-21,2025-08-13,258.81741685144124,Not_A_Country,Paris,Ups Worldwide,-130.0,OnTime,No
+1885,164.0,2025-01-24,2025-06-13,185.96,Not_A_Country,Paris,Dhl Express,140.0,Late,No
+1886,165.0,2025-02-04,2025-05-09,373.27,Spain,Munich,Ups Worldwide,94.0,Late,Yes
+1887,170.0,2025-09-02,2025-01-27,167.66,Usa,Munich,Ups Worldwide,-218.0,OnTime,No
+1888,125.0,2025-04-21,2025-11-16,446.8,Not_A_Country,Paris,Dhl Express,209.0,Late,No
+1889,132.0,2025-03-15,2025-12-14,94.89,Spain,Munich,Fedex Logistics,274.0,Late,Yes
+1890,173.0,2025-03-03,2025-11-08,493.3,Not_A_Country,Hamburg,Dhl Express,250.0,Late,No
+1891,138.0,2025-09-28,2025-03-05,23.31,Spain,Vancouver,Aramex International,-207.0,OnTime,Yes
+1892,198.0,2025-01-19,2025-08-23,331.24,Germany,Vancouver,Ups Worldwide,216.0,Late,Yes
+1893,176.0,2025-01-26,2025-03-15,157.27,Spain,Toronto,Fedex Logistics,48.0,Late,Yes
+1894,144.0,2025-08-20,2025-01-24,492.74,Usa,Paris,Fedex Logistics,-208.0,OnTime,No
+1895,196.0,2025-02-25,2025-06-25,220.95,Usa,Vancouver,Fedex Logistics,120.0,Late,No
+1896,129.0,2025-12-20,2025-08-24,423.04,Not_A_Country,Vancouver,Dhl Express,-118.0,OnTime,No
+1897,171.0,2025-06-26,2025-10-02,499.9,France,Munich,Kiwilytics Goods Shipping Llc.,98.0,Late,No
+1898,115.0,2025-09-13,2025-04-21,43.28,Germany,Paris,Ups Worldwide,-145.0,OnTime,Yes
+1899,107.0,2025-06-23,2025-10-21,334.36,Not_A_Country,Vancouver,Kiwilytics Goods Shipping Llc.,120.0,Late,No
+1900,168.0,2025-12-21,2025-06-01,48.52,Spain,Toronto,Dhl Express,-203.0,OnTime,Yes
+1901,169.0,2025-03-09,2025-12-16,171.92,Not_A_Country,Vancouver,Ups Worldwide,282.0,Late,No
+1902,171.0,2025-05-18,2025-05-21,230.8,France,Toronto,Dhl Express,3.0,OnTime,No
+1903,113.0,2025-07-03,2025-02-28,258.81741685144124,Canada,Toronto,Ups Worldwide,-125.0,OnTime,Yes
+1904,141.0,2025-12-28,2025-07-25,441.73,Spain,Montreal,Kiwilytics Goods Shipping Llc.,-156.0,OnTime,Yes
+1905,176.0,2025-01-28,2025-08-12,202.79,Germany,Munich,Aramex International,196.0,Late,Yes
+1906,177.0,2025-01-09,2025-04-16,258.81741685144124,Germany,Hamburg,Dhl Express,97.0,Late,Yes
+1907,100.0,2025-01-19,2025-06-25,282.88,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,157.0,Late,No
+1908,176.0,2025-11-05,2025-04-08,40.98,Spain,Toronto,Dhl Express,-211.0,OnTime,Yes
+1909,119.0,2025-04-26,2025-07-20,158.11,Not_A_Country,Toronto,Fedex Logistics,85.0,Late,No
+1910,119.0,2025-01-19,2025-06-25,95.87,Spain,Montreal,Ups Worldwide,157.0,Late,Yes
+1911,120.0,2025-12-03,2025-08-05,258.81741685144124,Not_A_Country,Toronto,Dhl Express,-120.0,OnTime,No
+1912,124.0,2025-04-06,2025-06-05,258.81741685144124,Usa,Vancouver,Dhl Express,60.0,Late,No
+1913,192.0,2025-04-09,2025-01-04,34.49,Spain,Vancouver,Fedex Logistics,-95.0,OnTime,Yes
+1914,110.0,2025-09-07,2025-11-11,96.67,Not_A_Country,Toronto,Ups Worldwide,65.0,Late,No
+1915,162.0,2025-10-05,2025-11-11,345.01,Germany,Toronto,Dhl Express,37.0,Late,Yes
+1916,129.0,2025-04-02,2025-01-28,185.64,Usa,Hamburg,Ups Worldwide,-64.0,OnTime,No
+1917,140.0,2025-05-22,2025-03-20,458.69,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,-63.0,OnTime,No
+1918,176.0,2025-05-12,2025-10-19,443.57,Usa,Paris,Fedex Logistics,160.0,Late,No
+1919,176.0,2025-11-28,2025-06-18,317.65,Not_A_Country,Paris,Kiwilytics Goods Shipping Llc.,-163.0,OnTime,No
+1920,162.0,2025-03-06,2025-06-09,240.05,Germany,Montreal,Aramex International,95.0,Late,Yes
+1921,172.0,2025-06-10,,35.28,Germany,Montreal,Ups Worldwide,,Unknown,Yes
+1922,103.0,2025-11-17,2025-01-07,448.88,Germany,Vancouver,Dhl Express,-314.0,OnTime,Yes
+1923,103.0,2025-08-08,2025-01-11,258.81741685144124,Canada,Paris,Fedex Logistics,-209.0,OnTime,Yes
+1924,168.0,,2025-02-15,258.81741685144124,France,Hamburg,Fedex Logistics,,Unknown,No
+1925,193.0,2025-02-06,2025-10-15,39.88,Canada,Munich,Kiwilytics Goods Shipping Llc.,251.0,Late,Yes
+1926,148.0,2025-06-03,,258.81741685144124,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1927,185.0,2025-01-13,2025-11-18,305.21,France,Hamburg,Kiwilytics Goods Shipping Llc.,309.0,Late,No
+1928,140.0,2025-09-05,2025-07-25,79.2,Not_A_Country,Hamburg,Ups Worldwide,-42.0,OnTime,No
+1929,115.0,2025-10-12,2025-07-06,440.38,France,Hamburg,Ups Worldwide,-98.0,OnTime,No
+1930,135.0,2025-05-11,2025-02-08,359.21,France,Hamburg,Ups Worldwide,-92.0,OnTime,No
+1931,159.0,,2025-04-06,483.92,Usa,Toronto,Ups Worldwide,,Unknown,No
+1932,159.0,2025-01-05,2025-08-28,396.25,Spain,Toronto,Fedex Logistics,235.0,Late,Yes
+1933,180.0,2025-05-08,2025-07-17,474.04,Canada,Vancouver,Aramex International,70.0,Late,Yes
+1934,104.0,2025-10-22,2025-02-19,373.49,Usa,Toronto,Kiwilytics Goods Shipping Llc.,-245.0,OnTime,No
+1935,197.0,2025-06-03,2025-09-03,381.48,Germany,Hamburg,Fedex Logistics,92.0,Late,Yes
+1936,112.0,2025-02-02,2025-07-04,166.49,Usa,Hamburg,Fedex Logistics,152.0,Late,No
+1937,100.0,2025-01-16,2025-12-12,108.13,Germany,Vancouver,Aramex International,330.0,Late,Yes
+1938,187.0,2025-10-08,2025-03-27,258.81741685144124,Usa,Montreal,Kiwilytics Goods Shipping Llc.,-195.0,OnTime,No
+1939,102.0,2025-08-16,2025-12-24,176.34,Spain,Paris,Ups Worldwide,130.0,Late,Yes
+1940,100.0,,2025-07-08,217.18,Usa,Montreal,Fedex Logistics,,Unknown,No
+1941,156.0,2025-12-11,2025-04-17,73.56,France,Hamburg,Dhl Express,-238.0,OnTime,No
+1942,146.0,2025-07-23,2025-04-21,15.8,Germany,Toronto,Kiwilytics Goods Shipping Llc.,-93.0,OnTime,Yes
+1943,188.0,2025-04-16,2025-07-02,268.18,France,Munich,Aramex International,77.0,Late,No
+1944,127.0,2025-03-19,2025-10-01,117.16,Canada,Vancouver,Aramex International,196.0,Late,Yes
+1945,131.0,2025-08-12,2025-11-03,465.94,Spain,Paris,Dhl Express,83.0,Late,Yes
+1946,165.0,2025-02-28,2025-03-04,258.81741685144124,Germany,Munich,Ups Worldwide,4.0,OnTime,Yes
+1947,168.0,2025-02-15,2025-06-28,347.86,Canada,Toronto,Kiwilytics Goods Shipping Llc.,133.0,Late,Yes
+1948,168.0,,2025-10-05,448.08,Unknown,Vancouver,Kiwilytics Goods Shipping Llc.,,Unknown,No
+1949,130.0,2025-02-15,2025-07-01,258.81741685144124,Canada,Montreal,Kiwilytics Goods Shipping Llc.,136.0,Late,Yes
+1950,139.0,2025-02-25,2025-05-01,161.8,Usa,Toronto,Dhl Express,65.0,Late,No
+1951,181.0,2025-01-10,2025-04-23,108.77,Canada,Toronto,Ups Worldwide,103.0,Late,Yes
+1952,192.0,2025-04-03,2025-02-02,327.0,Canada,Hamburg,Kiwilytics Goods Shipping Llc.,-60.0,OnTime,Yes
+1953,112.0,2025-09-16,2025-02-14,409.89,Not_A_Country,Vancouver,Aramex International,-214.0,OnTime,No
+1954,186.0,2025-05-26,2025-01-05,258.81741685144124,France,Toronto,Aramex International,-141.0,OnTime,No
+1955,164.0,2025-08-24,2025-08-15,126.74,Germany,Paris,Ups Worldwide,-9.0,OnTime,Yes
+1956,111.0,2025-09-26,2025-07-16,258.81741685144124,France,Paris,Fedex Logistics,-72.0,OnTime,No
+1957,105.0,2025-01-02,2025-02-26,478.31,Germany,Toronto,Kiwilytics Goods Shipping Llc.,55.0,Late,Yes
+1958,196.0,2025-08-01,2025-04-27,299.48,France,Hamburg,Kiwilytics Goods Shipping Llc.,-96.0,OnTime,No
+1959,182.0,2025-01-20,2025-08-01,354.71,Canada,Munich,Aramex International,193.0,Late,Yes
+1960,133.0,2025-06-15,2025-12-06,36.45,Spain,Montreal,Aramex International,174.0,Late,Yes
+1961,169.0,2025-09-18,2025-06-14,258.81741685144124,Canada,Paris,Ups Worldwide,-96.0,OnTime,Yes
+1962,101.0,,2025-08-10,172.91,Germany,Montreal,Aramex International,,Unknown,Yes
+1963,107.0,2025-09-09,2025-04-18,190.37,France,Montreal,Ups Worldwide,-144.0,OnTime,No
+1964,134.0,2025-12-17,2025-07-15,17.81,France,Toronto,Fedex Logistics,-155.0,OnTime,No
+1965,154.0,2025-07-11,2025-04-15,309.65,France,Munich,Dhl Express,-87.0,OnTime,No
+1966,169.0,2025-12-01,2025-11-10,240.87,Canada,Munich,Fedex Logistics,-21.0,OnTime,Yes
+1967,159.0,2025-07-23,2025-08-17,258.81741685144124,Spain,Vancouver,Aramex International,25.0,Late,Yes
+1968,138.0,2025-02-13,2025-02-26,334.04,Not_A_Country,Vancouver,Dhl Express,13.0,Late,No
+1969,121.0,2025-07-24,,10.93,Canada,Vancouver,Aramex International,,Unknown,Yes
+1970,137.0,2025-03-16,2025-02-24,72.5,Germany,Toronto,Aramex International,-20.0,OnTime,Yes
+1971,137.0,2025-02-05,,144.74,Not_A_Country,Vancouver,Aramex International,,Unknown,No
+1972,179.0,2025-05-01,2025-09-21,42.82,Not_A_Country,Paris,Ups Worldwide,143.0,Late,No
+1973,134.0,2025-11-16,2025-10-18,221.89,Usa,Vancouver,Dhl Express,-29.0,OnTime,No
+1974,150.0,2025-04-15,2025-09-01,390.99,Spain,Vancouver,Kiwilytics Goods Shipping Llc.,139.0,Late,Yes
+1975,129.0,2025-06-15,2025-03-04,26.53,Canada,Paris,Aramex International,-103.0,OnTime,Yes
+1976,127.0,2025-09-19,2025-05-11,354.37,Canada,Montreal,Dhl Express,-131.0,OnTime,Yes
+1977,188.0,2025-02-20,2025-03-03,499.1,Canada,Toronto,Fedex Logistics,11.0,Late,Yes
+1978,140.0,2025-06-09,2025-05-03,122.07,Usa,Vancouver,Aramex International,-37.0,OnTime,No
+1979,163.0,2025-10-24,2025-09-27,230.83,Germany,Montreal,Dhl Express,-27.0,OnTime,Yes
+1980,153.0,2025-11-16,2025-03-04,107.29,Not_A_Country,Hamburg,Kiwilytics Goods Shipping Llc.,-257.0,OnTime,No
+1981,178.0,2025-10-17,2025-08-23,293.34,Canada,Montreal,Ups Worldwide,-55.0,OnTime,Yes
+1982,199.0,2025-03-27,2025-01-17,289.73,Germany,Vancouver,Kiwilytics Goods Shipping Llc.,-69.0,OnTime,Yes
+1983,119.0,2025-11-01,2025-08-04,54.79,Germany,Munich,Fedex Logistics,-89.0,OnTime,Yes
+1984,167.0,2025-11-19,2025-07-28,84.9,France,Montreal,Fedex Logistics,-114.0,OnTime,No
+1985,151.0,2025-12-02,2025-05-04,140.29,Usa,Vancouver,Dhl Express,-212.0,OnTime,No
+1986,134.0,2025-02-27,2025-11-12,50.25,Usa,Toronto,Fedex Logistics,258.0,Late,No
+1987,105.0,2025-10-03,2025-07-24,13.52,Germany,Vancouver,Dhl Express,-71.0,OnTime,Yes
+1988,197.0,2025-02-12,2025-05-11,418.37,Spain,Hamburg,Ups Worldwide,88.0,Late,Yes
+1989,150.0,2025-09-12,2025-06-18,191.65,Canada,Montreal,Dhl Express,-86.0,OnTime,Yes
+1990,169.0,2025-08-03,2025-10-16,302.88,France,Paris,Kiwilytics Goods Shipping Llc.,74.0,Late,No
+1991,147.0,2025-05-20,2025-11-15,355.91,France,Montreal,Dhl Express,179.0,Late,No
+1992,105.0,2025-10-21,,220.11,Usa,Vancouver,Dhl Express,,Unknown,No
+1993,116.0,2025-01-18,,79.14,France,Montreal,Fedex Logistics,,Unknown,No
+1994,100.0,2025-07-22,2025-07-04,254.88,France,Munich,Ups Worldwide,-18.0,OnTime,No
+1995,168.0,2025-11-14,,283.51,Canada,Hamburg,Kiwilytics Goods Shipping Llc.,,Unknown,Yes
+1996,168.0,2025-03-12,2025-03-24,118.87,Usa,Vancouver,Kiwilytics Goods Shipping Llc.,12.0,Late,No
+1997,163.0,2025-03-01,2025-12-25,121.02,Canada,Vancouver,Ups Worldwide,299.0,Late,Yes
+1998,138.0,2025-03-12,2025-09-07,279.93,Spain,Paris,Ups Worldwide,179.0,Late,Yes
+1999,183.0,2025-04-04,2025-07-23,338.23,Spain,Hamburg,Ups Worldwide,110.0,Late,Yes
